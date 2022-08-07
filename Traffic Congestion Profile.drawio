@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-07T07:31:35.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="teECk67vDE57x6QdbJkW" version="20.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-07T08:21:30.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dXyKZJbOJ4DLRASl7S-k" version="20.2.1" type="github">
   <diagram id="NRNoiGj3pOeY31aAoD1F" name="Page-1">
-    <mxGraphModel dx="1126" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,6 +125,9 @@
         <mxCell id="3YsxtUIkQh-qdpAwfnlr-37" value="Itinerary Plan" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=8;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="290" y="528" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="3YsxtUIkQh-qdpAwfnlr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3YsxtUIkQh-qdpAwfnlr-42" target="3YsxtUIkQh-qdpAwfnlr-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3YsxtUIkQh-qdpAwfnlr-42" value="Energy Consumption Modelling" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="480" y="840" width="120" height="80" as="geometry" />
         </mxCell>
@@ -139,6 +142,9 @@
         </mxCell>
         <mxCell id="3YsxtUIkQh-qdpAwfnlr-44" value="Speed Profile Table" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="640" y="740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3YsxtUIkQh-qdpAwfnlr-49" value="Eenrgy Consumption Function" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="980" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
