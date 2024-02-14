@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T08:24:58.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="z5kSkMH-Pjbz-sJZ0aqY" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T08:31:16.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gAY7hz7qcF4j9PtJtQ8k" version="23.1.4" type="github">
   <diagram name="Page-1" id="AcW0Z6PNNwn7plAulHl2">
-    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1713" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -784,7 +784,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-243" value="Device Identity &lt;br&gt;Service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.protection_group_config;" vertex="1" parent="jM8FYMFcYMsa3xAurdGT-231">
-          <mxGeometry x="124" y="479.25" width="60.63" height="62.5" as="geometry" />
+          <mxGeometry x="124" y="454.25" width="60.63" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-244" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="jM8FYMFcYMsa3xAurdGT-231" source="jM8FYMFcYMsa3xAurdGT-246" target="jM8FYMFcYMsa3xAurdGT-243">
           <mxGeometry relative="1" as="geometry" />
@@ -825,13 +825,13 @@
         <mxCell id="jM8FYMFcYMsa3xAurdGT-251" value="Visual &amp;amp; Analytics" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.vrops;" vertex="1" parent="jM8FYMFcYMsa3xAurdGT-231">
           <mxGeometry x="25" y="54" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="jM8FYMFcYMsa3xAurdGT-252" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="jM8FYMFcYMsa3xAurdGT-231" source="jM8FYMFcYMsa3xAurdGT-241" target="jM8FYMFcYMsa3xAurdGT-248">
+        <mxCell id="jM8FYMFcYMsa3xAurdGT-252" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="jM8FYMFcYMsa3xAurdGT-231" source="jM8FYMFcYMsa3xAurdGT-241" target="jM8FYMFcYMsa3xAurdGT-248">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-253" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="jM8FYMFcYMsa3xAurdGT-231" source="jM8FYMFcYMsa3xAurdGT-246" target="jM8FYMFcYMsa3xAurdGT-248">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="106" y="400" />
+              <mxPoint x="110" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -912,6 +912,15 @@
               <mxPoint x="1500" y="1206" />
               <mxPoint x="1500" y="1157" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jM8FYMFcYMsa3xAurdGT-271" value="Post-Op: Wi-Fi or Cellular Network" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;" edge="1" parent="1" source="jM8FYMFcYMsa3xAurdGT-89" target="jM8FYMFcYMsa3xAurdGT-269">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="1380" />
+            </Array>
+            <mxPoint x="425" y="1360" as="sourcePoint" />
+            <mxPoint x="1015" y="1437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
