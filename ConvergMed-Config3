@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T09:22:21.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="urMoeXLKD9U0kcrEOHLU" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T09:22:56.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="iMKbSUGM9Nf28JLh2cXq" version="23.1.4" type="github">
   <diagram name="Page-1" id="FCQM9UP0pTVQ2XlISwV6">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -579,13 +579,16 @@
         <mxCell id="Y0am8QCV0gBKC4Ypl7aW-282" value="Synthetic Force Data" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Y0am8QCV0gBKC4Ypl7aW-207">
           <mxGeometry x="316" y="459" width="90" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Y0am8QCV0gBKC4Ypl7aW-288" value="Visual force plot" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Y0am8QCV0gBKC4Ypl7aW-207" source="Y0am8QCV0gBKC4Ypl7aW-286" target="Y0am8QCV0gBKC4Ypl7aW-213">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y0am8QCV0gBKC4Ypl7aW-288" value="Visual force plot" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Y0am8QCV0gBKC4Ypl7aW-207">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="148.94000000000005" y="573" as="sourcePoint" />
+            <mxPoint x="79" y="331" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y0am8QCV0gBKC4Ypl7aW-286" value="Validated Haptic Feedback" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Y0am8QCV0gBKC4Ypl7aW-207">
           <mxGeometry x="149.94" y="551" width="90" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Y0am8QCV0gBKC4Ypl7aW-292" value="Video Feed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Y0am8QCV0gBKC4Ypl7aW-207" source="Y0am8QCV0gBKC4Ypl7aW-291">
+        <mxCell id="Y0am8QCV0gBKC4Ypl7aW-292" value="Video Feed" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="Y0am8QCV0gBKC4Ypl7aW-207" source="Y0am8QCV0gBKC4Ypl7aW-291" target="Y0am8QCV0gBKC4Ypl7aW-213">
           <mxGeometry x="-0.4582" y="2" relative="1" as="geometry">
             <mxPoint x="80" y="316" as="targetPoint" />
             <mxPoint as="offset" />
