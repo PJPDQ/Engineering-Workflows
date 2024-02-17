@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T09:54:28.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="48HB8lQDdCpc-6tCJhIY" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T10:04:18.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rhftusAgteplzLN69Ziy" version="23.1.4" type="github">
   <diagram name="Page-1" id="AcW0Z6PNNwn7plAulHl2">
     <mxGraphModel dx="1969" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jM8FYMFcYMsa3xAurdGT-1" value="&#xa;Private (hospital) Network " style="swimlane;shadow=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="40" width="680" height="710" as="geometry">
+          <mxGeometry x="50" y="40" width="680" height="660" as="geometry">
             <mxRectangle x="50" y="40" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-2" value="Authentication" style="swimlane;startSize=23;shadow=0;" parent="jM8FYMFcYMsa3xAurdGT-1" vertex="1">
-          <mxGeometry x="110" y="24" width="119" height="686" as="geometry" />
+          <mxGeometry x="110" y="24" width="119" height="636" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-3" value="Pre-Op: Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" parent="jM8FYMFcYMsa3xAurdGT-2" source="jM8FYMFcYMsa3xAurdGT-4" target="jM8FYMFcYMsa3xAurdGT-5" edge="1">
           <mxGeometry x="-0.2128" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           <mxGeometry x="27.27000000000001" y="376" width="55.46" height="94" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-8" value="Operation Theater" style="swimlane;startSize=23;shadow=0;" parent="jM8FYMFcYMsa3xAurdGT-1" vertex="1">
-          <mxGeometry x="350" y="24" width="330" height="686" as="geometry" />
+          <mxGeometry x="350" y="24" width="330" height="636" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-9" value="Ethernet: 10/100Mbps" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.428;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;" parent="jM8FYMFcYMsa3xAurdGT-8" source="jM8FYMFcYMsa3xAurdGT-14" target="jM8FYMFcYMsa3xAurdGT-25" edge="1">
           <mxGeometry x="0.5164" relative="1" as="geometry">
@@ -155,10 +155,10 @@
           <mxGeometry x="210" y="136" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-76" value="Control Unit" style="swimlane;startSize=23;shadow=0;" parent="jM8FYMFcYMsa3xAurdGT-1" vertex="1">
-          <mxGeometry x="229" y="24" width="121" height="686" as="geometry" />
+          <mxGeometry x="229" y="24" width="121" height="636" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-77" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="jM8FYMFcYMsa3xAurdGT-76" vertex="1">
-          <mxGeometry x="9.960000000000008" y="457" width="101.08" height="94" as="geometry" />
+          <mxGeometry x="9.960000000000008" y="413" width="101.08" height="94" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-78" value="Private Network&lt;br&gt;(Cellular Hotspot)" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" parent="jM8FYMFcYMsa3xAurdGT-1" source="jM8FYMFcYMsa3xAurdGT-5" target="jM8FYMFcYMsa3xAurdGT-77" edge="1">
           <mxGeometry x="-0.5033" relative="1" as="geometry">
@@ -176,18 +176,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-32" value="User Layer" style="swimlane;startSize=23;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="64" width="110" height="686" as="geometry" />
+          <mxGeometry x="50" y="64" width="110" height="636" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-33" value="IoT Authorized User" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.administrator;" parent="jM8FYMFcYMsa3xAurdGT-32" vertex="1">
           <mxGeometry x="36.94" y="256" width="36.12" height="84" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-34" value="Private (Convergence) Network" style="swimlane;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="40" width="200" height="710" as="geometry">
+          <mxGeometry x="1130" y="40" width="200" height="660" as="geometry">
             <mxRectangle x="50" y="40" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-58" value="Private Network" style="swimlane;startSize=23;shadow=0;" parent="jM8FYMFcYMsa3xAurdGT-34" vertex="1">
-          <mxGeometry x="0.8899999999999864" y="24" width="198.22" height="686" as="geometry" />
+          <mxGeometry x="0.89" y="24" width="198.22" height="636" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-59" value="User Directory" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.blueprint;" parent="jM8FYMFcYMsa3xAurdGT-58" vertex="1">
           <mxGeometry x="68.22" y="140" width="80" height="76" as="geometry" />
@@ -199,7 +199,7 @@
           <mxGeometry x="68.22" y="316" width="84.21" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-65" value="Public Network" style="swimlane;startSize=23;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="730" y="40" width="400" height="710" as="geometry" />
+          <mxGeometry x="730" y="40" width="400" height="660" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-66" value="VPN" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" parent="jM8FYMFcYMsa3xAurdGT-65" source="jM8FYMFcYMsa3xAurdGT-67" target="jM8FYMFcYMsa3xAurdGT-70" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -233,8 +233,8 @@
         <mxCell id="jM8FYMFcYMsa3xAurdGT-73" value="Internet Connectivity" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" parent="jM8FYMFcYMsa3xAurdGT-65" vertex="1">
           <mxGeometry x="75" y="546" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jM8FYMFcYMsa3xAurdGT-35" value="Cloud Provider" style="swimlane;startSize=23;shadow=0;" parent="jM8FYMFcYMsa3xAurdGT-65" vertex="1">
-          <mxGeometry x="198.22" y="24" width="201.78" height="686" as="geometry" />
+        <mxCell id="jM8FYMFcYMsa3xAurdGT-35" value="External Cloud Provider" style="swimlane;startSize=23;shadow=0;" parent="jM8FYMFcYMsa3xAurdGT-65" vertex="1">
+          <mxGeometry x="198.22" y="24" width="201.78" height="636" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-35" source="jM8FYMFcYMsa3xAurdGT-37" target="jM8FYMFcYMsa3xAurdGT-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -280,13 +280,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-45" value="Device Management" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/27-Settings-128.png" parent="jM8FYMFcYMsa3xAurdGT-35" vertex="1">
-          <mxGeometry x="30" y="508.75" width="57" height="57" as="geometry" />
+          <mxGeometry x="30" y="459.75" width="57" height="57" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-35" source="jM8FYMFcYMsa3xAurdGT-47" target="jM8FYMFcYMsa3xAurdGT-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-47" value="Device Identity &lt;br&gt;Service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.protection_group_config;" parent="jM8FYMFcYMsa3xAurdGT-35" vertex="1">
-          <mxGeometry x="124" y="506.25" width="60.63" height="62.5" as="geometry" />
+          <mxGeometry x="124" y="486.25" width="60.63" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-35" source="jM8FYMFcYMsa3xAurdGT-50" target="jM8FYMFcYMsa3xAurdGT-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -294,13 +294,13 @@
         <mxCell id="jM8FYMFcYMsa3xAurdGT-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-35" source="jM8FYMFcYMsa3xAurdGT-50" target="jM8FYMFcYMsa3xAurdGT-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2" y="631" />
+              <mxPoint x="2" y="596" />
               <mxPoint x="2" y="343" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-50" value="Device Registry" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.security;" parent="jM8FYMFcYMsa3xAurdGT-35" vertex="1">
-          <mxGeometry x="81.64" y="606" width="38.5" height="50" as="geometry" />
+          <mxGeometry x="81.64" y="558" width="38.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-51" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-35" source="jM8FYMFcYMsa3xAurdGT-52" target="jM8FYMFcYMsa3xAurdGT-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -360,8 +360,8 @@
         <mxCell id="jM8FYMFcYMsa3xAurdGT-81" value="Post-Op: Wi-Fi or Cellular Network" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;" parent="1" source="jM8FYMFcYMsa3xAurdGT-7" target="jM8FYMFcYMsa3xAurdGT-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="215" y="690" />
-              <mxPoint x="750" y="690" />
+              <mxPoint x="215" y="650" />
+              <mxPoint x="750" y="650" />
               <mxPoint x="750" y="611" />
             </Array>
           </mxGeometry>
@@ -766,7 +766,7 @@
         <mxCell id="jM8FYMFcYMsa3xAurdGT-245" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-231" source="jM8FYMFcYMsa3xAurdGT-246" target="jM8FYMFcYMsa3xAurdGT-239" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-10" y="586" />
+              <mxPoint x="-10" y="566" />
               <mxPoint x="-10" y="490" />
               <mxPoint x="10" y="490" />
               <mxPoint x="10" y="343" />
@@ -774,7 +774,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-246" value="Device Registry" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.security;" parent="jM8FYMFcYMsa3xAurdGT-231" vertex="1">
-          <mxGeometry x="81.64" y="556" width="38.5" height="50" as="geometry" />
+          <mxGeometry x="81.64" y="541" width="38.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jM8FYMFcYMsa3xAurdGT-247" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="jM8FYMFcYMsa3xAurdGT-231" source="jM8FYMFcYMsa3xAurdGT-248" target="jM8FYMFcYMsa3xAurdGT-239" edge="1">
           <mxGeometry relative="1" as="geometry">
