@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T11:40:55.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="jWFsO3leL8ZNQCZRBtZN" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T13:19:12.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FzYZo8ZdaxKik1v6IsM2" version="23.1.4" type="github">
   <diagram name="Page-1" id="YXbn0XePQrR2T8waMjGW">
     <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-2" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
-          <mxGeometry x="130" y="730" width="55.46" height="94" as="geometry" />
+          <mxGeometry x="124" y="730" width="55.46" height="94" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-2" target="QbLVpeSZm-qC5LHct2jS-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
