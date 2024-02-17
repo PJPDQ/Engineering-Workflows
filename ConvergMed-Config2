@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T13:19:12.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="FzYZo8ZdaxKik1v6IsM2" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T15:07:04.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ljZqxUQXiCNLGYCop8im" version="23.1.4" type="github">
   <diagram name="Page-1" id="YXbn0XePQrR2T8waMjGW">
-    <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-77" value="P2P Connectivity" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1480" width="200" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="776.78" y="1521" width="148" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="5RDzbP7MfQr0U4DIZk5A-1" value="&#xa;Private (hospital) Network " style="swimlane;shadow=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="20" y="30" width="1250" height="640" as="geometry">
             <mxRectangle x="50" y="40" width="190" height="30" as="alternateBounds" />
@@ -553,42 +559,154 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-5" value="Encipher User, Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="747" width="80" height="60" as="geometry" />
+          <mxGeometry x="422" y="821.49" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-7" value="rsa4096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-6" target="QbLVpeSZm-qC5LHct2jS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-6" value="Encryption Key (public key)" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="870" width="50" height="22.5" as="geometry" />
+          <mxGeometry x="438" y="944.49" width="50" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-8" target="QbLVpeSZm-qC5LHct2jS-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="649" y="777" as="targetPoint" />
+            <mxPoint x="777" y="851.49" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-8" value="Decipher User, Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="416" y="747" width="80" height="60" as="geometry" />
+          <mxGeometry x="544" y="821.49" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-11" value="rsa4096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-10" target="QbLVpeSZm-qC5LHct2jS-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-10" value="Decryption Key (private key)" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="431" y="847.5" width="50" height="22.5" as="geometry" />
+          <mxGeometry x="559" y="921.99" width="50" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-13" target="QbLVpeSZm-qC5LHct2jS-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-13" value="Username&amp;amp;Password" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
-          <mxGeometry x="547" y="753.5" width="40" height="47" as="geometry" />
+          <mxGeometry x="675" y="827.99" width="40" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-14" target="QbLVpeSZm-qC5LHct2jS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-14" target="QbLVpeSZm-qC5LHct2jS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-14" value="Username&amp;amp;Password" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
-          <mxGeometry x="222" y="753.5" width="40" height="47" as="geometry" />
+          <mxGeometry x="350" y="827.99" width="40" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QbLVpeSZm-qC5LHct2jS-16" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
-          <mxGeometry x="638" y="735.51" width="89.78" height="83.49" as="geometry" />
+          <mxGeometry x="766" y="810" width="89.78" height="83.49" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-18" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="102.22999999999999" y="880" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-18" target="QbLVpeSZm-qC5LHct2jS-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="690" as="sourcePoint" />
+            <mxPoint x="760" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-21" target="QbLVpeSZm-qC5LHct2jS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-21" value="QR Generator" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/qr-code-128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="335.5" y="704" width="69" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-26" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+          <mxGeometry x="127.77" y="1020" width="55.46" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QbLVpeSZm-qC5LHct2jS-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495.77" y="1177.49" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-41" target="QbLVpeSZm-qC5LHct2jS-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-41" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1052.6599999999999" width="169.55" height="157.67" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-63" value="Interactive Connectivity Establishment (ICE) Candidates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-42" target="QbLVpeSZm-qC5LHct2jS-41">
+          <mxGeometry x="0.2659" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1220" />
+              <mxPoint x="80" y="1334" />
+              <mxPoint x="575" y="1334" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-42" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="105.99999999999999" y="1170" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-48" value="&lt;b&gt;Session Manager&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515.78" y="1028.66" width="115" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-49" value="Authentication and Authorization Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.78" y="1068.99" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-50" value="Certification Authority" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514.78" y="1115.99" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-51" value="Session descriptions&lt;br&gt;Cerficate Details" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="1107.99" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-58" value="WebRTC" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-51" target="QbLVpeSZm-qC5LHct2jS-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="974" as="sourcePoint" />
+            <mxPoint x="650" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-59" value="WebRTC" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-51" target="QbLVpeSZm-qC5LHct2jS-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="974" as="sourcePoint" />
+            <mxPoint x="650" y="924" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-62" value="Session Description" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-26" target="QbLVpeSZm-qC5LHct2jS-41">
+          <mxGeometry x="-0.0685" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="1067" />
+              <mxPoint x="80" y="1334" />
+              <mxPoint x="575" y="1334" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-67" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+          <mxGeometry x="145.76999999999998" y="1480" width="55.46" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-68" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+          <mxGeometry x="766" y="1500.9999999999998" width="169.55" height="157.67" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-69" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="123.99999999999999" y="1630" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-70" value="Bluetooth Mesh Network&amp;nbsp;&lt;br&gt;Central Hub" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="843.28" y="1533" width="15" height="28.799999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-72" value="&lt;div style=&quot;text-align: left;&quot;&gt;Authentication&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Receives Updates&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Exchange Data&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-75" target="QbLVpeSZm-qC5LHct2jS-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1460" as="sourcePoint" />
+            <mxPoint x="310" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-69" target="QbLVpeSZm-qC5LHct2jS-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1460" as="sourcePoint" />
+            <mxPoint x="270" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-75" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bluetooth Provisioning Process&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Looking for New Device...&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="461" y="1540" width="148" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QbLVpeSZm-qC5LHct2jS-76" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="QbLVpeSZm-qC5LHct2jS-67" target="QbLVpeSZm-qC5LHct2jS-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1560" as="sourcePoint" />
+            <mxPoint x="640" y="1510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
