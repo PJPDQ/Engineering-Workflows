@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T08:28:21.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5KC0Qz2yYiaIWUi9gz-1" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T08:33:18.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KcsI1iC7RBz7s0faA2TJ" version="23.1.4" type="github">
   <diagram name="Page-1" id="s4RaWJjUozbvL954xzMi">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -228,15 +228,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPAkWmY3nCHLN92yEFl7-168" value="Data partitioning &lt;br&gt;SFTP/ SCP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iPAkWmY3nCHLN92yEFl7-49" edge="1">
-          <mxGeometry x="-0.3223" relative="1" as="geometry">
-            <mxPoint x="20" y="1413" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="70" y="1413" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iPAkWmY3nCHLN92yEFl7-49" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="25.000000000000014" y="1245" width="104.3" height="97" as="geometry" />
         </mxCell>
@@ -367,15 +358,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPAkWmY3nCHLN92yEFl7-104" value="Web Real Time Communication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iPAkWmY3nCHLN92yEFl7-97" edge="1">
-          <mxGeometry x="0.284" y="-16" relative="1" as="geometry">
-            <mxPoint x="29" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="103" y="420" />
-            </Array>
-            <mxPoint x="16" y="16" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iPAkWmY3nCHLN92yEFl7-97" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="51.000000000000014" y="190" width="104.3" height="97" as="geometry" />
         </mxCell>
@@ -385,9 +367,6 @@
             <mxPoint x="385.1700000000001" y="160" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iPAkWmY3nCHLN92yEFl7-105" value="Patient Data&lt;br&gt;(JSON format)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Patient Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Surgery Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Notes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Media Attachment&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="109" y="313" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iPAkWmY3nCHLN92yEFl7-108" value="Network/ Communication Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="42.64999999999998" y="1005" width="137" height="30" as="geometry" />
@@ -649,15 +628,6 @@
             <mxPoint x="50" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="152" y="490" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iPAkWmY3nCHLN92yEFl7-166" value="SFTP using RSA Encryption" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iPAkWmY3nCHLN92yEFl7-164" edge="1">
-          <mxGeometry x="-0.233" y="10" relative="1" as="geometry">
-            <mxPoint x="40" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="110" y="920" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
