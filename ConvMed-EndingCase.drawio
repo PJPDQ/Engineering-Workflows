@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-18T06:50:14.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WCgskyRDx54RJxcip3PE" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-18T06:54:23.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="PJ8ze2C7vX-gbXl6dR3v" version="23.1.4" type="github">
   <diagram name="Page-1" id="s4RaWJjUozbvL954xzMi">
     <mxGraphModel dx="1195" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPAkWmY3nCHLN92yEFl7-168" value="Data partitioning &lt;br&gt;&amp;amp; &lt;br&gt;AES encryption" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iPAkWmY3nCHLN92yEFl7-49">
+        <mxCell id="iPAkWmY3nCHLN92yEFl7-168" value="Data partitioning &lt;br&gt;SFTP/ SCP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iPAkWmY3nCHLN92yEFl7-49">
           <mxGeometry x="-0.3223" relative="1" as="geometry">
             <mxPoint x="20" y="1413" as="targetPoint" />
             <Array as="points">
@@ -652,8 +652,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iPAkWmY3nCHLN92yEFl7-166" value="SSH SCP command with RSA Encryption" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iPAkWmY3nCHLN92yEFl7-164">
-          <mxGeometry x="-0.2389" y="10" relative="1" as="geometry">
+        <mxCell id="iPAkWmY3nCHLN92yEFl7-166" value="SFTP using RSA Encryption" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iPAkWmY3nCHLN92yEFl7-164">
+          <mxGeometry x="-0.233" y="10" relative="1" as="geometry">
             <mxPoint x="40" y="920" as="targetPoint" />
             <Array as="points">
               <mxPoint x="110" y="920" />
