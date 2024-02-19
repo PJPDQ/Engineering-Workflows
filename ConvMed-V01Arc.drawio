@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T10:52:17.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gaEuhkICotUGZ-_Wd764" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T10:53:11.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ZaFjSU4VpqNrxvEJ_i6y" version="23.1.4" type="github">
   <diagram name="Page-1" id="reRBD5ONaoJADAtSQphy">
     <mxGraphModel dx="1969" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -317,13 +317,13 @@
           <mxGeometry x="170" y="356" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-166" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
-          <mxGeometry x="34.90999999999997" y="427" width="39.74" height="50" as="geometry" />
+          <mxGeometry x="29.999999999999968" y="436" width="39.74" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-165" value="Patient Data&lt;br&gt;(JSON format)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Patient Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Surgery Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Notes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Media Attachment&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
           <mxGeometry x="9.449999999999989" y="526" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-63" value="Private VPN&lt;br&gt;TLS or DTLS Protocol using AES encryption" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="-xezqDMPhiExoqAPLuxy-1" source="-xezqDMPhiExoqAPLuxy-5" target="-xezqDMPhiExoqAPLuxy-54">
-          <mxGeometry x="0.3535" y="60" relative="1" as="geometry">
+          <mxGeometry x="0.3537" y="60" relative="1" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="330" y="122" />
