@@ -1,47 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T10:53:20.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bVhnAmLutWCP0l9EUhNo" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-19T10:56:36.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QiK_cR_sw1g85-l5EHUX" version="23.1.4" type="github">
   <diagram name="Page-1" id="reRBD5ONaoJADAtSQphy">
-    <mxGraphModel dx="1969" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-xezqDMPhiExoqAPLuxy-69" value="User Layer" style="swimlane;startSize=23;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="64" width="350.5" height="676" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-177" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-69">
+          <mxGeometry x="-1.5" y="34" width="271.5" height="486" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-70" value="IoT Authorized User" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.administrator;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-69">
+          <mxGeometry x="36.94" y="256" width="36.12" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-178" value="Master / Control Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-69">
+          <mxGeometry x="-1.5" y="34" width="111.5" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-1" value="&#xa;Private (hospital) Network " style="swimlane;shadow=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="1250" height="700" as="geometry">
             <mxRectangle x="50" y="40" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-2" value="Authentication &amp; Authorization Server" style="swimlane;startSize=23;shadow=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-1">
-          <mxGeometry x="110" y="24" width="160" height="676" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-3" value="Pre-Op: Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" edge="1" parent="-xezqDMPhiExoqAPLuxy-2" source="-xezqDMPhiExoqAPLuxy-4" target="-xezqDMPhiExoqAPLuxy-5">
-          <mxGeometry x="0.2962" y="10" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-30" y="246" />
-              <mxPoint x="-30" y="98" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-4" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
-          <mxGeometry x="22.5" y="196" width="99" height="99" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-5" value="QR Authenticator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/qr-code-128.png" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
-          <mxGeometry x="20" y="46" width="104" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-6" value="Pre-Op: Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="-xezqDMPhiExoqAPLuxy-2" source="-xezqDMPhiExoqAPLuxy-7" target="-xezqDMPhiExoqAPLuxy-5">
-          <mxGeometry x="-0.3481" y="40" relative="1" as="geometry">
-            <mxPoint x="22" y="98" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="423" />
-              <mxPoint x="140" y="150" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-7" value="Secured Phone Device" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
-          <mxGeometry x="44.27000000000001" y="376" width="55.46" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-167" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
-          <mxGeometry x="52.129999999999995" y="398" width="39.74" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-8" value="Operation Theater" style="swimlane;startSize=23;shadow=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-1">
           <mxGeometry x="589" y="24" width="660" height="676" as="geometry" />
@@ -303,6 +281,15 @@
         <mxCell id="-xezqDMPhiExoqAPLuxy-60" value="Key Distribution Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
           <mxGeometry x="30" y="353.5" width="120" height="39" as="geometry" />
         </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-62" value="Local Secured Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
+          <mxGeometry x="170" y="356" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-166" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
+          <mxGeometry x="29.999999999999968" y="436" width="39.74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-165" value="Patient Data&lt;br&gt;(JSON format)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Patient Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Surgery Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Notes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Media Attachment&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
+          <mxGeometry x="9.449999999999989" y="526" width="100" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-61" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="-xezqDMPhiExoqAPLuxy-53" source="-xezqDMPhiExoqAPLuxy-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="66.46000000000004" y="411" as="sourcePoint" />
@@ -312,15 +299,6 @@
               <mxPoint x="-20" y="330" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-62" value="Local Secured Network" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
-          <mxGeometry x="170" y="356" width="120" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-166" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
-          <mxGeometry x="29.999999999999968" y="436" width="39.74" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-165" value="Patient Data&lt;br&gt;(JSON format)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Patient Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Surgery Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Notes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Media Attachment&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-53">
-          <mxGeometry x="9.449999999999989" y="526" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-63" value="Private VPN&lt;br&gt;TLS or DTLS Protocol using AES encryption" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="-xezqDMPhiExoqAPLuxy-1" source="-xezqDMPhiExoqAPLuxy-5" target="-xezqDMPhiExoqAPLuxy-54">
           <mxGeometry x="0.3537" y="60" relative="1" as="geometry">
@@ -346,25 +324,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-69" value="User Layer" style="swimlane;startSize=23;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="64" width="110" height="676" as="geometry" />
+        <mxCell id="-xezqDMPhiExoqAPLuxy-2" value="Authentication &amp; Authorization Server" style="swimlane;startSize=23;shadow=0;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-1">
+          <mxGeometry x="110" y="24" width="160" height="676" as="geometry" />
         </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-70" value="IoT Authorized User" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.administrator;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-69">
-          <mxGeometry x="36.94" y="256" width="36.12" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-xezqDMPhiExoqAPLuxy-70" target="-xezqDMPhiExoqAPLuxy-7">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="-xezqDMPhiExoqAPLuxy-3" value="Pre-Op: Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" edge="1" parent="-xezqDMPhiExoqAPLuxy-2" source="-xezqDMPhiExoqAPLuxy-4" target="-xezqDMPhiExoqAPLuxy-5">
+          <mxGeometry x="0.2962" y="10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="95" y="457" />
+              <mxPoint x="-30" y="246" />
+              <mxPoint x="-30" y="98" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-xezqDMPhiExoqAPLuxy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-xezqDMPhiExoqAPLuxy-70" target="-xezqDMPhiExoqAPLuxy-4">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="-xezqDMPhiExoqAPLuxy-4" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
+          <mxGeometry x="22.5" y="196" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-5" value="QR Authenticator" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/qr-code-128.png" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
+          <mxGeometry x="20" y="46" width="104" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-6" value="Pre-Op: Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="-xezqDMPhiExoqAPLuxy-2" source="-xezqDMPhiExoqAPLuxy-7" target="-xezqDMPhiExoqAPLuxy-5">
+          <mxGeometry x="-0.3481" y="40" relative="1" as="geometry">
+            <mxPoint x="22" y="98" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="95" y="280" />
+              <mxPoint x="140" y="423" />
+              <mxPoint x="140" y="150" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-7" value="Secured Phone Device" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
+          <mxGeometry x="44.27000000000001" y="376" width="55.46" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-167" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-2">
+          <mxGeometry x="52.129999999999995" y="398" width="39.74" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-73" value="Private (Convergence) Network" style="swimlane;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="40" width="400" height="700" as="geometry">
@@ -525,6 +517,20 @@
         </mxCell>
         <mxCell id="-xezqDMPhiExoqAPLuxy-176" value="Internet Connectivity" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;" vertex="1" parent="-xezqDMPhiExoqAPLuxy-168">
           <mxGeometry x="75" y="546" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-xezqDMPhiExoqAPLuxy-70" target="-xezqDMPhiExoqAPLuxy-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xezqDMPhiExoqAPLuxy-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-xezqDMPhiExoqAPLuxy-70" target="-xezqDMPhiExoqAPLuxy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
