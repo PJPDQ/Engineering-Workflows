@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T09:32:00.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gdtM3CZOvNG4vJrfomaQ" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T09:36:56.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ve6JiJEfEmwlIXi6-C96" version="24.0.1" type="github">
   <diagram name="Page-1" id="Ah44wzWWiZ-OgtkRJnl1">
-    <mxGraphModel dx="1674" dy="-2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="-2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3449,6 +3449,119 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="5" y="6880" as="sourcePoint" />
             <mxPoint x="845" y="6880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-38" value="&lt;font color=&quot;#ff0000&quot;&gt;At the end of the day&lt;/font&gt;: Direct Connect (AWS) or ExpressRoute (Azure)" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-37" target="vOVtkC0TVVZLegLuCEnb-44">
+          <mxGeometry x="-0.0285" y="10" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="628.01" y="7120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-40" value="&lt;font color=&quot;#ff0000&quot;&gt;At the end of the day&lt;/font&gt;: Direct Connect (AWS) or ExpressRoute (Azure)" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry x="-0.3142" y="-1" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="294.01" y="7959" />
+              <mxPoint x="603.01" y="7959" />
+              <mxPoint x="603.01" y="7772" />
+            </Array>
+            <mxPoint x="686.01" y="7772" as="targetPoint" />
+            <mxPoint as="offset" />
+            <mxPoint x="294.01" y="7914" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-41" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="1">
+          <mxGeometry x="540.13" y="6970" width="39.74" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="654.19" y="6943" />
+            </Array>
+            <mxPoint x="764.19" y="6943" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-44" value="IoT Transformation &lt;br&gt;&amp;amp; Connectivity" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
+          <mxGeometry x="607.46" y="7004" width="70.46" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-45" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-46" target="vOVtkC0TVVZLegLuCEnb-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="643.19" y="7098" />
+              <mxPoint x="643.19" y="7098" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-46" value="Device Management" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/27-Settings-128.png" vertex="1" parent="1">
+          <mxGeometry x="614.19" y="7200.75" width="57" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-48" target="vOVtkC0TVVZLegLuCEnb-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-48" value="Device Identity &lt;br&gt;Service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.protection_group_config;" vertex="1" parent="1">
+          <mxGeometry x="708.19" y="7198.25" width="60.63" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-51" target="vOVtkC0TVVZLegLuCEnb-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-51" target="vOVtkC0TVVZLegLuCEnb-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="574.19" y="7323" />
+              <mxPoint x="574.19" y="7182" />
+              <mxPoint x="594.19" y="7182" />
+              <mxPoint x="594.19" y="7035" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-51" value="Device Registry" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.security;" vertex="1" parent="1">
+          <mxGeometry x="665.83" y="7298" width="38.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-52" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-53" target="vOVtkC0TVVZLegLuCEnb-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738.19" y="7028" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-53" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;API Management" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#00000;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="710.3800000000001" y="7058" width="56.25" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-54" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-46" target="vOVtkC0TVVZLegLuCEnb-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-51" target="vOVtkC0TVVZLegLuCEnb-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690.19" y="7092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-56" value="External Cloud Provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="607.46" y="6913" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="49.999999999999986" y="6960" width="55.46000000000001" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-37" value="User Personal Device" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="vOVtkC0TVVZLegLuCEnb-57">
+          <mxGeometry width="55.46" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-39" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.json_2;gradientColor=#DFDEDE" vertex="1" parent="vOVtkC0TVVZLegLuCEnb-57">
+          <mxGeometry x="7.730000000000018" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-58" value="Authenticate Devices Handshake" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="vOVtkC0TVVZLegLuCEnb-37" target="vOVtkC0TVVZLegLuCEnb-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="78" y="7130" />
+              <mxPoint x="356" y="7130" />
+              <mxPoint x="356" y="7229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vOVtkC0TVVZLegLuCEnb-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="7400" as="sourcePoint" />
+            <mxPoint x="845" y="7400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
