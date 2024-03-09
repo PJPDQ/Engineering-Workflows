@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T07:33:12.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4429wyvR1BzOHV5KqzOQ" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T08:41:03.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="J0M09tR63YE80O8nXqpM" version="24.0.1" type="github">
   <diagram name="Page-1" id="AcW0Z6PNNwn7plAulHl2">
-    <mxGraphModel dx="973" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2902" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2750,6 +2750,9 @@
         <mxCell id="Se-slqOIIhdvAd8JEWqp-273" value="Patient 0" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="3886" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Se-slqOIIhdvAd8JEWqp-886" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se-slqOIIhdvAd8JEWqp-274" target="Se-slqOIIhdvAd8JEWqp-885">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Se-slqOIIhdvAd8JEWqp-274" value="PATIENTS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="930" y="3851" width="100" height="30" as="geometry">
             <mxRectangle x="790" y="3570" width="180" height="810" as="alternateBounds" />
@@ -4036,6 +4039,9 @@
               <mxPoint x="1700" y="3411" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Se-slqOIIhdvAd8JEWqp-885" value="Cloud Provider" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="3850" width="111.61" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
