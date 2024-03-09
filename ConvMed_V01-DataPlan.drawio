@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-09T09:58:10.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LbkGeyAd1cP-xpV0jmmq" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-09T09:58:42.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tMN6cJ3QWmf0i951FO6c" version="24.0.1" type="github">
   <diagram name="Page-1" id="Ah44wzWWiZ-OgtkRJnl1">
     <mxGraphModel dx="1553" dy="-2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3732,7 +3732,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vOVtkC0TVVZLegLuCEnb-101" value="Patient Data&lt;br&gt;(JSON format)&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Patient Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Surgery Details&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Notes&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Media Attachment&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="65.22999999999999" y="7830" width="100" height="90" as="geometry" />
+          <mxGeometry x="47.16999999999999" y="7830" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vOVtkC0TVVZLegLuCEnb-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
