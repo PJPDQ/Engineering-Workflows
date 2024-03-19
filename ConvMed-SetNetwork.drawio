@@ -1,93 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T14:57:49.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="O8fwbLXRPBLg5MZQPiuP" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T02:56:10.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="iir57Gn4i-dEZ1T2mfci" version="24.0.4" type="github">
   <diagram name="Page-1" id="-8-UsMF40BnLmy5UXp28">
-    <mxGraphModel dx="1434" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-1" value="P2P Connectivity" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-1" value="P2P Connectivity" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="179" y="-304" width="200" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="664.78" y="-263" width="148" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-3" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-3" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" parent="1" vertex="1">
           <mxGeometry x="76.77" y="-1025" width="55.46" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-3" target="IZquiQLbJF_Cb5NeXCbJ-17">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-3" target="IZquiQLbJF_Cb5NeXCbJ-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="672.77" y="-1155" as="sourcePoint" />
             <mxPoint x="193.77" y="-978" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-6" target="IZquiQLbJF_Cb5NeXCbJ-10">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-6" target="IZquiQLbJF_Cb5NeXCbJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-6" value="Encipher User, Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-6" value="Encipher User, Password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374.77" y="-933.51" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-7" value="rsa4096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-8" target="IZquiQLbJF_Cb5NeXCbJ-6">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-7" value="rsa4096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-8" target="IZquiQLbJF_Cb5NeXCbJ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-8" value="Encryption Key (public key)" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-8" value="Encryption Key (public key)" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="390.77" y="-810.51" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-10" target="IZquiQLbJF_Cb5NeXCbJ-14">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-10" target="IZquiQLbJF_Cb5NeXCbJ-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="729.77" y="-903.51" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-10" value="Decipher User, Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-10" value="Decipher User, Password" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="496.77" y="-933.51" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-11" value="rsa4096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-12" target="IZquiQLbJF_Cb5NeXCbJ-10">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-11" value="rsa4096" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-12" target="IZquiQLbJF_Cb5NeXCbJ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-12" value="Decryption Key (private key)" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-12" value="Decryption Key (private key)" style="points=[[0,0.5,0],[0.24,0,0],[0.5,0.28,0],[0.995,0.475,0],[0.5,0.72,0],[0.24,1,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.key;fillColor=#005073;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="511.77" y="-833.01" width="50" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-14" target="IZquiQLbJF_Cb5NeXCbJ-18">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-14" target="IZquiQLbJF_Cb5NeXCbJ-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-14" value="Username&amp;amp;Password" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-14" value="Username&amp;amp;Password" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" parent="1" vertex="1">
           <mxGeometry x="627.77" y="-927.01" width="40" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-17" target="IZquiQLbJF_Cb5NeXCbJ-6">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-17" target="IZquiQLbJF_Cb5NeXCbJ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-17" target="IZquiQLbJF_Cb5NeXCbJ-22">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-17" target="IZquiQLbJF_Cb5NeXCbJ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-17" value="Username&amp;amp;Password" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-17" value="Username&amp;amp;Password" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" parent="1" vertex="1">
           <mxGeometry x="302.77" y="-927.01" width="40" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-18" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-18" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="718.77" y="-945" width="89.78" height="83.49" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-19" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-19" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" parent="1" vertex="1">
           <mxGeometry x="54.999999999999986" y="-875" width="99" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-19" target="IZquiQLbJF_Cb5NeXCbJ-17">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-19" target="IZquiQLbJF_Cb5NeXCbJ-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="662.77" y="-1065" as="sourcePoint" />
             <mxPoint x="712.77" y="-1115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-22" target="IZquiQLbJF_Cb5NeXCbJ-17">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-22" target="IZquiQLbJF_Cb5NeXCbJ-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-22" value="QR Generator" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/qr-code-128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-22" value="QR Generator" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/qr-code-128.png;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="288.27" y="-1051" width="69" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-23" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-23" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" parent="1" vertex="1">
           <mxGeometry x="178.76999999999998" y="-706" width="55.46" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-25" target="IZquiQLbJF_Cb5NeXCbJ-31">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-25" target="IZquiQLbJF_Cb5NeXCbJ-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-25" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-25" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="541" y="-673.3400000000001" width="169.55" height="157.67" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-26" value="Interactive Connectivity Establishment (ICE) Candidates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-27" target="IZquiQLbJF_Cb5NeXCbJ-25">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-26" value="Interactive Connectivity Establishment (ICE) Candidates" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-27" target="IZquiQLbJF_Cb5NeXCbJ-25" edge="1">
           <mxGeometry x="0.2659" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="131" y="-506" />
@@ -97,34 +97,34 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-27" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-27" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" parent="1" vertex="1">
           <mxGeometry x="157" y="-556" width="99" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-28" value="&lt;b&gt;Session Manager&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-28" value="&lt;b&gt;Session Manager&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="566.78" y="-697.3399999999999" width="115" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-29" value="Authentication and Authorization Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-29" value="Authentication and Authorization Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="565.78" y="-657.01" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-30" value="Certification Authority" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-30" value="Certification Authority" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="565.78" y="-610.01" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-31" value="Session descriptions&lt;br&gt;Cerficate Details" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-31" value="Session descriptions&lt;br&gt;Cerficate Details" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" parent="1" vertex="1">
           <mxGeometry x="405.5" y="-618.01" width="40" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-32" value="WebRTC" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-31" target="IZquiQLbJF_Cb5NeXCbJ-23">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-32" value="WebRTC" style="endArrow=classic;html=1;rounded=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-31" target="IZquiQLbJF_Cb5NeXCbJ-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="651" y="-752" as="sourcePoint" />
             <mxPoint x="701" y="-802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-33" value="WebRTC" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-31" target="IZquiQLbJF_Cb5NeXCbJ-27">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-33" value="WebRTC" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-31" target="IZquiQLbJF_Cb5NeXCbJ-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="651" y="-752" as="sourcePoint" />
             <mxPoint x="701" y="-802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-34" value="Session Description" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-23" target="IZquiQLbJF_Cb5NeXCbJ-25">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-34" value="Session Description" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-23" target="IZquiQLbJF_Cb5NeXCbJ-25" edge="1">
           <mxGeometry x="-0.0685" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="131" y="-659" />
@@ -134,47 +134,92 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-35" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-35" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" parent="1" vertex="1">
           <mxGeometry x="84.76999999999998" y="-304" width="55.46" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-36" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-36" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="654" y="-283.0000000000002" width="169.55" height="157.67" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-37" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-37" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" parent="1" vertex="1">
           <mxGeometry x="62.999999999999986" y="-154" width="99" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-38" value="Bluetooth Mesh Network&amp;nbsp;&lt;br&gt;Central Hub" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-38" value="Bluetooth Mesh Network&amp;nbsp;&lt;br&gt;Central Hub" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" parent="1" vertex="1">
           <mxGeometry x="731.28" y="-251" width="15" height="28.799999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;Authentication&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Receives Updates&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Exchange Data&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-41" target="IZquiQLbJF_Cb5NeXCbJ-36">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-39" value="&lt;div style=&quot;text-align: left;&quot;&gt;Authentication&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Receives Updates&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Exchange Data&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-41" target="IZquiQLbJF_Cb5NeXCbJ-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="529" y="-324" as="sourcePoint" />
             <mxPoint x="249" y="-314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-37" target="IZquiQLbJF_Cb5NeXCbJ-41">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-37" target="IZquiQLbJF_Cb5NeXCbJ-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="529" y="-324" as="sourcePoint" />
             <mxPoint x="209" y="-4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bluetooth Provisioning Process&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Looking for New Device...&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-41" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bluetooth Provisioning Process&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Looking for New Device...&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="-244" width="148" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-35" target="IZquiQLbJF_Cb5NeXCbJ-41">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-42" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="IZquiQLbJF_Cb5NeXCbJ-35" target="IZquiQLbJF_Cb5NeXCbJ-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="529" y="-224" as="sourcePoint" />
             <mxPoint x="579" y="-274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Config1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Config1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="379" y="-1100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Config2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-44" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Config2&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="-740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Config3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IZquiQLbJF_Cb5NeXCbJ-45" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;Config3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="-370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_BeWsQ6fjZ5_wVY0nXs-2" target="P_BeWsQ6fjZ5_wVY0nXs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-2" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+          <mxGeometry x="632.27" y="94.99999999999989" width="169.55" height="157.67" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-3" value="&lt;b&gt;Session Manager&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="658.05" y="71.00000000000011" width="115" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-4" value="Authentication and Authorization Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.05" y="111.33000000000004" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-5" value="Certification Authority" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="657.05" y="158.33000000000004" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-6" value="Session descriptions&lt;br&gt;Cerficate Details" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.document;" vertex="1" parent="1">
+          <mxGeometry x="496.77" y="150.33000000000004" width="40" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_BeWsQ6fjZ5_wVY0nXs-7" target="P_BeWsQ6fjZ5_wVY0nXs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-7" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Smart Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+          <mxGeometry x="76.76999999999998" y="40" width="55.46" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P_BeWsQ6fjZ5_wVY0nXs-8" target="P_BeWsQ6fjZ5_wVY0nXs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-8" value="Hospital VR Headset" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png" vertex="1" parent="1">
+          <mxGeometry x="45.999999999999986" y="214" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-9" value="BLE Connections&amp;nbsp;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bluetooth;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="509.04999999999995" y="87.33" width="15" height="28.799999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;Authentication&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Receives Updates&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Exchange Data&lt;/div&gt;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P_BeWsQ6fjZ5_wVY0nXs-11" target="P_BeWsQ6fjZ5_wVY0nXs-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315.77" y="54" as="sourcePoint" />
+            <mxPoint x="440.77" y="174" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bluetooth Provisioning Process&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Looking for New Device...&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="186.76999999999998" y="134" width="148" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P_BeWsQ6fjZ5_wVY0nXs-14" value="&lt;div style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot; class=&quot;csl-bib-body&quot;&gt;&lt;br/&gt;  &lt;div class=&quot;csl-entry&quot;&gt;Brabham, M., &amp;amp; Watson, M. (2021). &lt;i&gt;Pairing Bluetooth Devices via QR Code&lt;/i&gt;.&lt;/div&gt;&lt;br/&gt;  &lt;span title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Pairing%20Bluetooth%20Devices%20via%20QR%20Code&amp;amp;rft.aufirst=Martin&amp;amp;rft.aulast=Brabham&amp;amp;rft.au=Martin%20Brabham&amp;amp;rft.au=Myles%20Watson&amp;amp;rft.date=2021&quot; class=&quot;Z3988&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="396.38" y="10" width="423.62" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
