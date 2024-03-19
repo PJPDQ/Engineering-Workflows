@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T03:31:07.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-qrwDV_rPpWzwf7iDAV1" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T03:33:08.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8GZQd7BfR3WyRHwFiZjO" version="24.0.4" type="github">
   <diagram name="Page-1" id="X_7h8zLOfVIcf5Rycq8-">
     <mxGraphModel dx="1434" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -339,6 +339,9 @@
         </mxCell>
         <mxCell id="N_NBwsOhy-6bV_Aff_T--24" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395.81" y="1620" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--25" value="&lt;div class=&quot;csl-bib-body&quot; style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot;&gt;&#xa;  &lt;div class=&quot;csl-entry&quot;&gt;Chenthara, S., Ahmed, K., Wang, H., &amp;amp; Whittaker, F. (2019). Security and privacy-preserving challenges of e-health solutions in cloud computing. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 74361–74382.&lt;/div&gt;&#xa;  &lt;span class=&quot;Z3988&quot; title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Security%20and%20privacy-preserving%20challenges%20of%20e-health%20solutions%20in%20cloud%20computing&amp;amp;rft.jtitle=IEEE%20access&amp;amp;rft.stitle=IEEE%20access&amp;amp;rft.volume=7&amp;amp;rft.aufirst=Shekha&amp;amp;rft.aulast=Chenthara&amp;amp;rft.au=Shekha%20Chenthara&amp;amp;rft.au=Khandakar%20Ahmed&amp;amp;rft.au=Hua%20Wang&amp;amp;rft.au=Frank%20Whittaker&amp;amp;rft.date=2019&amp;amp;rft.pages=74361-74382&amp;amp;rft.spage=74361&amp;amp;rft.epage=74382&amp;amp;rft.issn=2169-3536&quot;&gt;&lt;/span&gt;&#xa;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1500" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
