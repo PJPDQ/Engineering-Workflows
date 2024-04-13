@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-13T10:39:04.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pR1sugmEbWYmoU0sMurA" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T11:59:48.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vqC15Dn7i0oLmoxApm1g" version="24.2.3" type="github">
   <diagram name="Page-1" id="X_7h8zLOfVIcf5Rycq8-">
     <mxGraphModel dx="1285" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -342,6 +342,188 @@
         </mxCell>
         <mxCell id="N_NBwsOhy-6bV_Aff_T--25" value="&lt;div class=&quot;csl-bib-body&quot; style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot;&gt;&#xa;  &lt;div class=&quot;csl-entry&quot;&gt;Chenthara, S., Ahmed, K., Wang, H., &amp;amp; Whittaker, F. (2019). Security and privacy-preserving challenges of e-health solutions in cloud computing. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 74361–74382.&lt;/div&gt;&#xa;  &lt;span class=&quot;Z3988&quot; title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Security%20and%20privacy-preserving%20challenges%20of%20e-health%20solutions%20in%20cloud%20computing&amp;amp;rft.jtitle=IEEE%20access&amp;amp;rft.stitle=IEEE%20access&amp;amp;rft.volume=7&amp;amp;rft.aufirst=Shekha&amp;amp;rft.aulast=Chenthara&amp;amp;rft.au=Shekha%20Chenthara&amp;amp;rft.au=Khandakar%20Ahmed&amp;amp;rft.au=Hua%20Wang&amp;amp;rft.au=Frank%20Whittaker&amp;amp;rft.date=2019&amp;amp;rft.pages=74361-74382&amp;amp;rft.spage=74361&amp;amp;rft.epage=74382&amp;amp;rft.issn=2169-3536&quot;&gt;&lt;/span&gt;&#xa;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1500" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-9" value="P2P App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="291.52" y="2090" width="91.23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="AfyAULXcSbtilVkwsb1a-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336.47" y="2587" as="sourcePoint" />
+            <mxPoint x="336.1399999999999" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-11" value="P2P Local Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51.89999999999992" y="2090" width="91.23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="96.22999999999996" y="2579" as="sourcePoint" />
+            <mxPoint x="96.52000000000004" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-14" value="Cloud Server Global Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530.41" y="2090" width="91.23" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574.7399999999999" y="2579" as="sourcePoint" />
+            <mxPoint x="575.0300000000001" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="570" y="2250" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-17" value="Use Formula-based&lt;div&gt;Pseudo-random&amp;nbsp;&lt;/div&gt;&lt;div&gt;Key Generator (1) = &lt;b&gt;password(1)&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0105" relative="1" as="geometry">
+            <mxPoint x="580" y="2250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="2280" />
+            </Array>
+            <mxPoint x="585" y="2280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-18" value="&lt;b&gt;Decrypt [w/ password(1)]&lt;/b&gt;&amp;nbsp;=&amp;nbsp;&lt;div&gt;&lt;b&gt;Metadata, Handshake Info&amp;nbsp;&lt;/b&gt;and &lt;b&gt;password(1)&lt;/b&gt;.&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="2289" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="610" y="2319" />
+            </Array>
+            <mxPoint x="585" y="2319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-20" value="Formula-based&lt;div&gt;Pseudo-random&amp;nbsp;&lt;/div&gt;&lt;div&gt;Key Generator (1)&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.073" y="-20" relative="1" as="geometry">
+            <mxPoint x="336.27" y="2160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="307.90999999999997" y="2160" />
+              <mxPoint x="307.90999999999997" y="2190" />
+            </Array>
+            <mxPoint x="331.27" y="2190.0526315789475" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-21" value="&lt;b&gt;MetaData,&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Handshake Info,&lt;/b&gt;&lt;div&gt;&lt;b&gt;password(1) [Random]&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0666" y="-17" relative="1" as="geometry">
+            <mxPoint x="331.4999999999999" y="2210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="311.4999999999999" y="2210" />
+              <mxPoint x="311.4999999999999" y="2240" />
+            </Array>
+            <mxPoint x="336.4999999999999" y="2240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-24" value="Encrypted Handshake Request" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0439" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="332.85" y="2250" as="sourcePoint" />
+            <mxPoint x="572.85" y="2250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-25" value="&lt;div&gt;Using &lt;b&gt;password(1)&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;to Formula-based Pseudo-random Key&lt;/div&gt;&lt;div&gt;Generator (2) = &lt;b&gt;password(2)&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0092" relative="1" as="geometry">
+            <mxPoint x="579.95" y="2333.95" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="609.95" y="2363.95" />
+            </Array>
+            <mxPoint x="584.95" y="2363.95" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="331.22" y="2149" width="10" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-26" value="Cloud Response" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="0.0348" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335.82000000000005" y="2460" as="sourcePoint" />
+            <mxPoint x="575.82" y="2460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-28" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="AfyAULXcSbtilVkwsb1a-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337.44000000000005" y="2676" as="sourcePoint" />
+            <mxPoint x="337.1099999999999" y="2229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="333.1" y="2462" width="10" height="177" as="geometry" />
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-29" value="Use Formula-based&lt;div&gt;Pseudo-random&amp;nbsp;&lt;/div&gt;&lt;div&gt;Key Generator (2) = password(2)&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0492" y="-14" relative="1" as="geometry">
+            <mxPoint x="328.4000000000001" y="2463" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="310.49" y="2463" />
+              <mxPoint x="310.49" y="2493" />
+            </Array>
+            <mxPoint x="333.4000000000001" y="2493" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-30" value="&lt;b&gt;Decrypt &lt;/b&gt;[w/ &lt;b&gt;password(2)&lt;/b&gt;]&lt;b&gt;&amp;nbsp;&lt;/b&gt;=&amp;nbsp;&lt;div&gt;&lt;b&gt;Handshake Res, ID, Session + password(2).&lt;/b&gt;&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0141" y="-10" relative="1" as="geometry">
+            <mxPoint x="329.4000000000001" y="2499.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="311.49" y="2499.5" />
+              <mxPoint x="311.49" y="2529.5" />
+            </Array>
+            <mxPoint x="334.4000000000001" y="2529.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-31" value="Input &lt;b&gt;handshake response ID,&lt;/b&gt;&lt;div&gt;to Formula-based Pseudo-random Key&lt;/div&gt;&lt;div&gt;Generator (3)&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1289" y="-9" relative="1" as="geometry">
+            <mxPoint x="329.10000000000014" y="2549" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="311.24" y="2549.05" />
+              <mxPoint x="311.24" y="2579.05" />
+            </Array>
+            <mxPoint x="334.10000000000014" y="2579" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-32" value="Encrypted Handshake Request" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0439" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336.82" y="2639" as="sourcePoint" />
+            <mxPoint x="576.8199999999999" y="2639" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-34" value="" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0666" y="-17" relative="1" as="geometry">
+            <mxPoint x="327.81999999999994" y="2599" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="307.81999999999994" y="2599" />
+              <mxPoint x="307.81999999999994" y="2629" />
+            </Array>
+            <mxPoint x="332.81999999999994" y="2629" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-35" value="Create &lt;b&gt;Session Information&lt;/b&gt; and&amp;nbsp;&lt;div&gt;store in &lt;b&gt;Session Manager&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0106" relative="1" as="geometry">
+            <mxPoint x="582.08" y="2377" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="603.46" y="2377" />
+              <mxPoint x="603.46" y="2407" />
+              <mxPoint x="582.46" y="2407" />
+            </Array>
+            <mxPoint x="582.46" y="2407" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfyAULXcSbtilVkwsb1a-36" value="&lt;div style=&quot;&quot;&gt;Handshake Response+&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Handshake Info+&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Session ID+&lt;/div&gt;&lt;div style=&quot;&quot;&gt;password(2)&lt;/div&gt;&lt;div style=&quot;&quot;&gt;= &lt;b&gt;Cloud Response&lt;/b&gt; Encrypted&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;using &lt;b&gt;password(2)&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.4194" y="11" relative="1" as="geometry">
+            <mxPoint x="582.1700000000001" y="2421" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="603.5500000000001" y="2421" />
+              <mxPoint x="603.5500000000001" y="2451" />
+              <mxPoint x="582.5500000000001" y="2451" />
+            </Array>
+            <mxPoint x="582.5500000000001" y="2451" as="targetPoint" />
+            <mxPoint x="7" y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
