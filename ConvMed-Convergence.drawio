@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T03:52:01.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CcB84eqVioyxWr7N0Qz6" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T12:52:51.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="r86IR_Aru-QTRY_d7-8Z" version="24.2.3" type="github">
   <diagram name="Page-1" id="4u4NYFsqPZ5pBq9_Hb_6">
-    <mxGraphModel dx="584" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="371" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,10 +281,10 @@
         <mxCell id="TdkFuNuNc027U2WNbnE0-65" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" parent="1" vertex="1">
           <mxGeometry x="895.59" y="1201.25" width="39.74" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-1" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Private Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-1" value="&lt;font color=&quot;#ff3333&quot;&gt;Secured Private Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" parent="1" vertex="1">
           <mxGeometry x="980.2700000000001" y="1670.75" width="55.46" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-3" value="&lt;font color=&quot;#ff0000&quot;&gt;At the end of the day&lt;/font&gt;: Wi-Fi or Cellular Network" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iWR2fwnlVL1DfycjLuau-1" target="iWR2fwnlVL1DfycjLuau-17">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-3" value="&lt;font color=&quot;#ff0000&quot;&gt;At the end of the day&lt;/font&gt;: Wi-Fi or Cellular Network" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iWR2fwnlVL1DfycjLuau-1" target="iWR2fwnlVL1DfycjLuau-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1007.6800000000001" y="1842" />
@@ -294,44 +294,44 @@
             <mxPoint x="1234.54" y="1841.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-4" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-4" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="1145" y="1670" width="101.08" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-5" value="SFTP" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="iWR2fwnlVL1DfycjLuau-4" target="iWR2fwnlVL1DfycjLuau-1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-5" value="SFTP" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="iWR2fwnlVL1DfycjLuau-4" target="iWR2fwnlVL1DfycjLuau-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1068" y="1717" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-6" value="Encrypted PtD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-6" value="Encrypted PtD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1041.87" y="1660" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" parent="1" vertex="1">
           <mxGeometry x="1154.3999999999999" y="1680.75" width="39.74" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-8" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-8" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" parent="1" vertex="1">
           <mxGeometry x="988.1300000000001" y="1692" width="39.74" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-9" value="Private (Convergence) Network" style="swimlane;shadow=0;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-9" value="Private (Convergence) Network" style="swimlane;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1449.68" y="1590" width="200" height="660" as="geometry">
             <mxRectangle x="50" y="40" width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-10" value="Private Network" style="swimlane;startSize=23;shadow=0;" vertex="1" parent="iWR2fwnlVL1DfycjLuau-9">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-10" value="Private Network" style="swimlane;startSize=23;shadow=0;" parent="iWR2fwnlVL1DfycjLuau-9" vertex="1">
           <mxGeometry x="0.89" y="24" width="198.22" height="636" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-11" value="User Directory" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.blueprint;" vertex="1" parent="iWR2fwnlVL1DfycjLuau-10">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-11" value="User Directory" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.blueprint;" parent="iWR2fwnlVL1DfycjLuau-10" vertex="1">
           <mxGeometry x="68.22" y="140" width="80" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-12" value="Inventory Management" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.on_demand_self_service;" vertex="1" parent="iWR2fwnlVL1DfycjLuau-10">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-12" value="Inventory Management" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.on_demand_self_service;" parent="iWR2fwnlVL1DfycjLuau-10" vertex="1">
           <mxGeometry x="68.22" y="506" width="84.71" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-13" value="Enterprise Data" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.folder;" vertex="1" parent="iWR2fwnlVL1DfycjLuau-10">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-13" value="Enterprise Data" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.folder;" parent="iWR2fwnlVL1DfycjLuau-10" vertex="1">
           <mxGeometry x="68.22" y="316" width="84.21" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-19" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iWR2fwnlVL1DfycjLuau-10">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-19" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="iWR2fwnlVL1DfycjLuau-10" vertex="1">
           <mxGeometry x="14.1099999999999" y="46" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-14" value="Private VPN" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="1" target="iWR2fwnlVL1DfycjLuau-11">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-14" value="Private VPN" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" parent="1" target="iWR2fwnlVL1DfycjLuau-11" edge="1">
           <mxGeometry x="-0.4293" y="-20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1489.68" y="1710" />
@@ -341,7 +341,7 @@
             <mxPoint x="1442.68" y="1710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="1" target="iWR2fwnlVL1DfycjLuau-13">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" parent="1" target="iWR2fwnlVL1DfycjLuau-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1489.68" y="1711" />
@@ -350,7 +350,7 @@
             <mxPoint x="1442.68" y="1711" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-16" value="Private VPN" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" edge="1" parent="1" target="iWR2fwnlVL1DfycjLuau-12">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-16" value="Private VPN" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=block;startFill=1;" parent="1" target="iWR2fwnlVL1DfycjLuau-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1489.68" y="1711" />
@@ -359,14 +359,77 @@
             <mxPoint x="1442.68" y="1711" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-17" value="External Cloud Provider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-17" value="External Cloud Provider" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1322.68" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-18" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-18" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1284.68" y="1764" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iWR2fwnlVL1DfycjLuau-20" value="&lt;div class=&quot;csl-bib-body&quot; style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot;&gt;&lt;div class=&quot;csl-entry&quot;&gt;Chenthara, S., Ahmed, K., Wang, H., &amp;amp; Whittaker, F. (2019). Security and privacy-preserving challenges of e-health solutions in cloud computing. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 74361–74382.&lt;/div&gt;  &lt;div class=&quot;csl-entry&quot;&gt;Nidhya, R., Kumar, M., Maheswar, R., &amp;amp; Pavithra, D. (2022). Security and privacy issues in smart healthcare system using internet of things. &lt;i&gt;IoT‐Enabled Smart Healthcare Systems, Services and Applications&lt;/i&gt;, 63–85.&lt;/div&gt;&lt;div class=&quot;csl-entry&quot;&gt;Zala, K., Thakkar, H. K., Jadeja, R., Singh, P., Kotecha, K., &amp;amp; Shukla, M. (2022). PRMS: design and development of patients’ E-healthcare records management system for privacy preservation in third party cloud platforms. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;10&lt;/i&gt;, 85777–85791.&lt;/div&gt;&lt;br&gt;  &lt;span class=&quot;Z3988&quot; title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=PRMS%3A%20design%20and%20development%20of%20patients%E2%80%99%20E-healthcare%20records%20management%20system%20for%20privacy%20preservation%20in%20third%20party%20cloud%20platforms&amp;amp;rft.jtitle=IEEE%20Access&amp;amp;rft.stitle=IEEE%20Access&amp;amp;rft.volume=10&amp;amp;rft.aufirst=Kirtirajsinh&amp;amp;rft.aulast=Zala&amp;amp;rft.au=Kirtirajsinh%20Zala&amp;amp;rft.au=Hiren%20Kumar%20Thakkar&amp;amp;rft.au=Rajendrasinh%20Jadeja&amp;amp;rft.au=Priyanka%20Singh&amp;amp;rft.au=Ketan%20Kotecha&amp;amp;rft.au=Madhu%20Shukla&amp;amp;rft.date=2022&amp;amp;rft.pages=85777-85791&amp;amp;rft.spage=85777&amp;amp;rft.epage=85791&amp;amp;rft.issn=2169-3536&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iWR2fwnlVL1DfycjLuau-20" value="&lt;div class=&quot;csl-bib-body&quot; style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot;&gt;&lt;div class=&quot;csl-entry&quot;&gt;Chenthara, S., Ahmed, K., Wang, H., &amp;amp; Whittaker, F. (2019). Security and privacy-preserving challenges of e-health solutions in cloud computing. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 74361–74382.&lt;/div&gt;  &lt;div class=&quot;csl-entry&quot;&gt;Nidhya, R., Kumar, M., Maheswar, R., &amp;amp; Pavithra, D. (2022). Security and privacy issues in smart healthcare system using internet of things. &lt;i&gt;IoT‐Enabled Smart Healthcare Systems, Services and Applications&lt;/i&gt;, 63–85.&lt;/div&gt;&lt;div class=&quot;csl-entry&quot;&gt;Zala, K., Thakkar, H. K., Jadeja, R., Singh, P., Kotecha, K., &amp;amp; Shukla, M. (2022). PRMS: design and development of patients’ E-healthcare records management system for privacy preservation in third party cloud platforms. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;10&lt;/i&gt;, 85777–85791.&lt;/div&gt;&lt;br&gt;  &lt;span class=&quot;Z3988&quot; title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=PRMS%3A%20design%20and%20development%20of%20patients%E2%80%99%20E-healthcare%20records%20management%20system%20for%20privacy%20preservation%20in%20third%20party%20cloud%20platforms&amp;amp;rft.jtitle=IEEE%20Access&amp;amp;rft.stitle=IEEE%20Access&amp;amp;rft.volume=10&amp;amp;rft.aufirst=Kirtirajsinh&amp;amp;rft.aulast=Zala&amp;amp;rft.au=Kirtirajsinh%20Zala&amp;amp;rft.au=Hiren%20Kumar%20Thakkar&amp;amp;rft.au=Rajendrasinh%20Jadeja&amp;amp;rft.au=Priyanka%20Singh&amp;amp;rft.au=Ketan%20Kotecha&amp;amp;rft.au=Madhu%20Shukla&amp;amp;rft.date=2022&amp;amp;rft.pages=85777-85791&amp;amp;rft.spage=85777&amp;amp;rft.epage=85791&amp;amp;rft.issn=2169-3536&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960.31" y="1870" width="450.71" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="937.73" y="2330" width="20" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-2" value=":P2P App" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1096.87" y="2330" width="100" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-3" value=":internal Devices" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1320" y="2330" width="100" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-4" value=":Cloud Server Global Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1510" y="2330" width="100" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-5" value="Login with Username and Password" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;startFill=0;fontSize=8;" edge="1" parent="1" target="z_0zDeYLB9i1ocC3CWDk-2">
+          <mxGeometry y="5" relative="1" as="geometry">
+            <mxPoint x="949" y="2400" as="sourcePoint" />
+            <mxPoint x="1129" y="2400" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-6" value="Verify Login Credentials" style="endArrow=classic;html=1;rounded=0;fontSize=8;" edge="1" parent="1" target="z_0zDeYLB9i1ocC3CWDk-4">
+          <mxGeometry x="0.0533" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1146.87" y="2410" as="sourcePoint" />
+            <mxPoint x="1296.87" y="2410" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-9" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=70;height=20;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="948" y="2440" width="612" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.005;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.005;entryY=0.49;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="z_0zDeYLB9i1ocC3CWDk-9" target="z_0zDeYLB9i1ocC3CWDk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-0.18000000000004235" y="50" as="sourcePoint" />
+            <mxPoint x="424.77" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-11" value="Bad Login&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=8;" edge="1" parent="z_0zDeYLB9i1ocC3CWDk-9" target="z_0zDeYLB9i1ocC3CWDk-2">
+          <mxGeometry x="-0.0667" y="-9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="612" y="65" as="sourcePoint" />
+            <mxPoint x="462" y="65" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-12" value="Login Page" style="endArrow=classic;html=1;rounded=0;fontSize=8;dashed=1;" edge="1" parent="z_0zDeYLB9i1ocC3CWDk-9" target="z_0zDeYLB9i1ocC3CWDk-1">
+          <mxGeometry x="-0.0667" y="-9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="86" as="sourcePoint" />
+            <mxPoint x="19" y="86" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-7" value="Login OK" style="endArrow=classic;html=1;rounded=0;dashed=1;fontSize=8;" edge="1" parent="z_0zDeYLB9i1ocC3CWDk-9">
+          <mxGeometry x="-0.0667" y="-9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="612" y="19" as="sourcePoint" />
+            <mxPoint x="198.8699999999999" y="19" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z_0zDeYLB9i1ocC3CWDk-8" value="Home Page" style="endArrow=classic;html=1;rounded=0;fontSize=8;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0667" y="-9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1146.37" y="2476" as="sourcePoint" />
+            <mxPoint x="947.23" y="2476" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
