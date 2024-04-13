@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T03:33:08.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8GZQd7BfR3WyRHwFiZjO" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-13T10:34:44.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="P7s5XWyANQnvg-rFjTpI" version="24.2.3" type="github">
   <diagram name="Page-1" id="X_7h8zLOfVIcf5Rycq8-">
-    <mxGraphModel dx="1434" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1285" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,13 +236,13 @@
         <mxCell id="LSRTFatCAq7PPlSGL0DP-55" value="External Cloud Provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="563.27" y="960" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="491.87" y="1540" width="258.36" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--2" value="Personal&lt;font color=&quot;#ff3333&quot;&gt;/ Secured Private Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--2" value="Personal&lt;font color=&quot;#ff3333&quot;&gt;/ Secured Private Device&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" parent="1" vertex="1">
           <mxGeometry x="130" y="1710" width="55.46" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--3" value="&lt;font color=&quot;#ff0000&quot;&gt;At the end of the day&lt;/font&gt;: Direct Connect (AWS) or ExpressRoute (Azure)" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--2" target="N_NBwsOhy-6bV_Aff_T--11">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--3" value="&lt;font color=&quot;#ff0000&quot;&gt;At the end of the day&lt;/font&gt;: Direct Connect (AWS) or ExpressRoute (Azure)" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;startArrow=none;startFill=0;" parent="1" source="N_NBwsOhy-6bV_Aff_T--2" target="N_NBwsOhy-6bV_Aff_T--11" edge="1">
           <mxGeometry x="-0.3783" y="-11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="157.87" y="1849" />
@@ -253,24 +253,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--4" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--4" value="User Console" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.monitor;" parent="1" vertex="1">
           <mxGeometry x="294.73" y="1709.25" width="101.08" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--5" value="BLE" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--4" target="N_NBwsOhy-6bV_Aff_T--2">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--5" value="BLE" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--4" target="N_NBwsOhy-6bV_Aff_T--2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="217.73" y="1756.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--6" value="Encrypted PtD using User Console" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--6" value="Encrypted PtD using User Console" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190.73" y="1719.75" width="100" height="19.25" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" parent="1" vertex="1">
           <mxGeometry x="304.13" y="1720" width="39.74" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" parent="1" vertex="1">
           <mxGeometry x="137.85999999999999" y="1731.25" width="39.74" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--11">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="596.87" y="1570" />
@@ -278,10 +278,10 @@
             <mxPoint x="706.87" y="1570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--11" value="IoT Transformation &lt;br&gt;&amp;amp; Connectivity" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--11" value="IoT Transformation &lt;br&gt;&amp;amp; Connectivity" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.service_provider_cloud_environment;" parent="1" vertex="1">
           <mxGeometry x="550.14" y="1631" width="70.46" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--13" target="N_NBwsOhy-6bV_Aff_T--11">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--13" target="N_NBwsOhy-6bV_Aff_T--11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="585.87" y="1725" />
@@ -289,19 +289,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--13" value="Device Management" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/27-Settings-128.png" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--13" value="Device Management" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/call-center-and-service/32/27-Settings-128.png" parent="1" vertex="1">
           <mxGeometry x="556.87" y="1827.75" width="57" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--15" target="N_NBwsOhy-6bV_Aff_T--13">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--14" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--15" target="N_NBwsOhy-6bV_Aff_T--13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--15" value="Device Identity &lt;br&gt;Service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.protection_group_config;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--15" value="Device Identity &lt;br&gt;Service" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.vvd.protection_group_config;" parent="1" vertex="1">
           <mxGeometry x="650.87" y="1825.25" width="60.63" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--18" target="N_NBwsOhy-6bV_Aff_T--15">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--18" target="N_NBwsOhy-6bV_Aff_T--15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--18" target="N_NBwsOhy-6bV_Aff_T--11">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--17" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--18" target="N_NBwsOhy-6bV_Aff_T--11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="516.87" y="1950" />
@@ -311,36 +311,36 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--18" value="Device Registry" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.security;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--18" value="Device Registry" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.security;" parent="1" vertex="1">
           <mxGeometry x="608.51" y="1925" width="38.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--20" target="N_NBwsOhy-6bV_Aff_T--11">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--20" target="N_NBwsOhy-6bV_Aff_T--11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680.87" y="1655" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;API Management" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#00000;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--20" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;API Management" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#00000;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="653.0600000000001" y="1685" width="56.25" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--13" target="N_NBwsOhy-6bV_Aff_T--20">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--13" target="N_NBwsOhy-6bV_Aff_T--20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="N_NBwsOhy-6bV_Aff_T--18" target="N_NBwsOhy-6bV_Aff_T--20">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="N_NBwsOhy-6bV_Aff_T--18" target="N_NBwsOhy-6bV_Aff_T--20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="632.87" y="1719" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--23" value="External Cloud Provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--23" value="External Cloud Provider" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550.14" y="1540" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--24" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--24" value="Encrypted PtD Role-based + Identity Based Access Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="395.81" y="1620" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N_NBwsOhy-6bV_Aff_T--25" value="&lt;div class=&quot;csl-bib-body&quot; style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot;&gt;&#xa;  &lt;div class=&quot;csl-entry&quot;&gt;Chenthara, S., Ahmed, K., Wang, H., &amp;amp; Whittaker, F. (2019). Security and privacy-preserving challenges of e-health solutions in cloud computing. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 74361–74382.&lt;/div&gt;&#xa;  &lt;span class=&quot;Z3988&quot; title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Security%20and%20privacy-preserving%20challenges%20of%20e-health%20solutions%20in%20cloud%20computing&amp;amp;rft.jtitle=IEEE%20access&amp;amp;rft.stitle=IEEE%20access&amp;amp;rft.volume=7&amp;amp;rft.aufirst=Shekha&amp;amp;rft.aulast=Chenthara&amp;amp;rft.au=Shekha%20Chenthara&amp;amp;rft.au=Khandakar%20Ahmed&amp;amp;rft.au=Hua%20Wang&amp;amp;rft.au=Frank%20Whittaker&amp;amp;rft.date=2019&amp;amp;rft.pages=74361-74382&amp;amp;rft.spage=74361&amp;amp;rft.epage=74382&amp;amp;rft.issn=2169-3536&quot;&gt;&lt;/span&gt;&#xa;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="N_NBwsOhy-6bV_Aff_T--25" value="&lt;div class=&quot;csl-bib-body&quot; style=&quot;line-height: 2; margin-left: 2em; text-indent:-2em;&quot;&gt;&#xa;  &lt;div class=&quot;csl-entry&quot;&gt;Chenthara, S., Ahmed, K., Wang, H., &amp;amp; Whittaker, F. (2019). Security and privacy-preserving challenges of e-health solutions in cloud computing. &lt;i&gt;IEEE Access&lt;/i&gt;, &lt;i&gt;7&lt;/i&gt;, 74361–74382.&lt;/div&gt;&#xa;  &lt;span class=&quot;Z3988&quot; title=&quot;url_ver=Z39.88-2004&amp;amp;ctx_ver=Z39.88-2004&amp;amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;amp;rft.genre=article&amp;amp;rft.atitle=Security%20and%20privacy-preserving%20challenges%20of%20e-health%20solutions%20in%20cloud%20computing&amp;amp;rft.jtitle=IEEE%20access&amp;amp;rft.stitle=IEEE%20access&amp;amp;rft.volume=7&amp;amp;rft.aufirst=Shekha&amp;amp;rft.aulast=Chenthara&amp;amp;rft.au=Shekha%20Chenthara&amp;amp;rft.au=Khandakar%20Ahmed&amp;amp;rft.au=Hua%20Wang&amp;amp;rft.au=Frank%20Whittaker&amp;amp;rft.date=2019&amp;amp;rft.pages=74361-74382&amp;amp;rft.spage=74361&amp;amp;rft.epage=74382&amp;amp;rft.issn=2169-3536&quot;&gt;&lt;/span&gt;&#xa;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="1500" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
