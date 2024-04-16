@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T06:37:48.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GUV_90XJb5EigmLljmAL" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T06:40:36.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="itgPbItOYutuB5MonuIH" version="24.2.5" type="github">
   <diagram name="Page-1" id="AcW0Z6PNNwn7plAulHl2">
     <mxGraphModel dx="1878" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4059,12 +4059,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zZDDBJhEZT3zU_skusHS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZDDBJhEZT3zU_skusHS-36" target="zZDDBJhEZT3zU_skusHS-3">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="zZDDBJhEZT3zU_skusHS-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZDDBJhEZT3zU_skusHS-36" target="zZDDBJhEZT3zU_skusHS-3">
+          <mxGeometry x="-0.5264" y="22" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="101.12" y="522" />
               <mxPoint x="101.12" y="522" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-bc3e93b7-7fff-d53d-00bc-28a493f3e376&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:624px;height:347px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/Z-j8rBA-pT773QvFM32S2s_SlSqqMmhKKSICKPBs9Sw7v0fWWkOuNXgzZwmwgboMKODq-PhCkqr7RSIPrUNhkeIhfSAPAspZ1QnqaFft0-Y1nrmTbbWCFWWvZUYzjSqC9T5Hkt129kwqM4E1zm0jFBQ&quot; width=&quot;624&quot; height=&quot;347&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" link="&lt;b style=&quot;font-weight:normal;&quot; id=&quot;docs-internal-guid-bc3e93b7-7fff-d53d-00bc-28a493f3e376&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;span style=&quot;border:none;display:inline-block;overflow:hidden;width:624px;height:347px;&quot;&gt;&lt;img src=&quot;https://lh7-us.googleusercontent.com/Z-j8rBA-pT773QvFM32S2s_SlSqqMmhKKSICKPBs9Sw7v0fWWkOuNXgzZwmwgboMKODq-PhCkqr7RSIPrUNhkeIhfSAPAspZ1QnqaFft0-Y1nrmTbbWCFWWvZUYzjSqC9T5Hkt129kwqM4E1zm0jFBQ&quot; width=&quot;624&quot; height=&quot;347&quot; style=&quot;margin-left:0px;margin-top:0px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;" id="zZDDBJhEZT3zU_skusHS-77">
@@ -4108,18 +4109,18 @@
         <mxCell id="zZDDBJhEZT3zU_skusHS-6" value="User Personal Device" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
           <mxGeometry x="162.89" y="675" width="55.46" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="zZDDBJhEZT3zU_skusHS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="1" source="zZDDBJhEZT3zU_skusHS-6" target="zZDDBJhEZT3zU_skusHS-4">
-          <mxGeometry x="-0.8964" y="37" relative="1" as="geometry">
+        <mxCell id="zZDDBJhEZT3zU_skusHS-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Pre-Op: Authentication&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="1" source="zZDDBJhEZT3zU_skusHS-6" target="zZDDBJhEZT3zU_skusHS-4">
+          <mxGeometry x="-0.4031" y="-9" relative="1" as="geometry">
             <mxPoint x="221.12" y="344" as="targetPoint" />
             <Array as="points">
               <mxPoint x="261.12" y="712" />
               <mxPoint x="261.12" y="396" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zZDDBJhEZT3zU_skusHS-2" value="Pre-Op: Authentication" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="zZDDBJhEZT3zU_skusHS-3" target="zZDDBJhEZT3zU_skusHS-4">
-          <mxGeometry x="-0.2128" relative="1" as="geometry">
+          <mxGeometry x="-0.0204" y="21" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="91.12" y="442" />
               <mxPoint x="91.12" y="344" />
