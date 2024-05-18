@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T11:40:37.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EBVi99O0IybucuR_Toyr" version="24.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-18T11:41:06.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MucthLanCfiaoMtst6hl" version="24.4.3" type="github" pages="6">
   <diagram name="EMS" id="cyA4w0rCBu8PJxnkou6-">
     <mxGraphModel dx="962" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -232,10 +232,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w7iLNY-hoHGPEl4RkNDf-30" value="PWM (timer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZGtfo0b690prijXp5fph-1">
-          <mxGeometry x="484" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="484" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7iLNY-hoHGPEl4RkNDf-31" value="Power LED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZGtfo0b690prijXp5fph-1">
-          <mxGeometry x="634" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="590" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w7iLNY-hoHGPEl4RkNDf-32" value="millis&lt;div&gt;(watchdog)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZGtfo0b690prijXp5fph-1">
           <mxGeometry x="724" y="660" width="60" height="30" as="geometry" />
