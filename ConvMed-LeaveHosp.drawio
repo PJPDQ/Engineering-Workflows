@@ -1072,84 +1072,84 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="210" width="20" height="950" as="geometry" />
+          <mxGeometry x="-850" y="210" width="20" height="950" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-2" value="Opening &quot;Link To Robot&quot; within P2P App" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;startFill=0;fontSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-801" y="279" as="sourcePoint" />
-            <mxPoint x="-503" y="279" as="targetPoint" />
+            <mxPoint x="-841" y="279" as="sourcePoint" />
+            <mxPoint x="-543" y="279" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-3" value="P2P App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-549.21" y="203" width="91.23" height="50" as="geometry" />
+          <mxGeometry x="-589.21" y="203" width="91.23" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="a_sRbSnwJ97P-xuQ64Qr-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-504" y="1160" as="sourcePoint" />
-            <mxPoint x="-503.8600000000001" y="577" as="targetPoint" />
+            <mxPoint x="-544" y="1160" as="sourcePoint" />
+            <mxPoint x="-543.8600000000001" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-5" value="V01 Robot GUI&lt;div&gt;(UserCon/ EmbSys)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-310.61" y="203" width="91.23" height="50" as="geometry" />
+          <mxGeometry x="-350.61" y="203" width="91.23" height="50" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a_sRbSnwJ97P-xuQ64Qr-39" target="a_sRbSnwJ97P-xuQ64Qr-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-265" y="1540" as="sourcePoint" />
-            <mxPoint x="-264.9699999999999" y="577" as="targetPoint" />
+            <mxPoint x="-305" y="1540" as="sourcePoint" />
+            <mxPoint x="-304.9699999999999" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-7" value="&lt;b&gt;(ENCRYPTED) Handshake &amp;amp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;b&gt;password(1) [Random],&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(UNENCRYPTED) Handshake ID &amp;amp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MetaData&lt;/b&gt;&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0666" y="-17" relative="1" as="geometry">
-            <mxPoint x="-512.5000000000001" y="396" as="sourcePoint" />
+            <mxPoint x="-552.5000000000001" y="396" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-532.5000000000001" y="396" />
-              <mxPoint x="-532.5000000000001" y="426" />
+              <mxPoint x="-572.5000000000001" y="396" />
+              <mxPoint x="-572.5000000000001" y="426" />
             </Array>
-            <mxPoint x="-507.5000000000001" y="426" as="targetPoint" />
+            <mxPoint x="-547.5000000000001" y="426" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-8" value="&lt;div&gt;Formula-based Pseudo-random Key&lt;/div&gt;&lt;div&gt;Generator (2) = &lt;b&gt;password(2)&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0092" relative="1" as="geometry">
-            <mxPoint x="-260.04999999999995" y="647.9499999999998" as="sourcePoint" />
+            <mxPoint x="-300.04999999999995" y="647.9499999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-230.04999999999995" y="677.9499999999998" />
+              <mxPoint x="-270.04999999999995" y="677.9499999999998" />
             </Array>
-            <mxPoint x="-255.04999999999995" y="677.9499999999998" as="targetPoint" />
+            <mxPoint x="-295.04999999999995" y="677.9499999999998" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-508.78" y="300" width="10" height="190" as="geometry" />
+          <mxGeometry x="-548.78" y="300" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-508.78" y="845" width="10" height="95" as="geometry" />
+          <mxGeometry x="-548.78" y="845" width="10" height="95" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-11" value="&lt;b&gt;Decrypt &lt;/b&gt;[w/ &lt;b&gt;password(1)&lt;/b&gt;]&lt;b&gt;&amp;nbsp;&lt;/b&gt;=&amp;nbsp;&lt;div&gt;&lt;b&gt;Handshake Confirmation,&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ID, Session + password(2).&lt;/b&gt;&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0141" y="-10" relative="1" as="geometry">
-            <mxPoint x="-511.4799999999999" y="848.5" as="sourcePoint" />
+            <mxPoint x="-551.4799999999999" y="848.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-529.39" y="848.5" />
-              <mxPoint x="-529.39" y="878.5" />
+              <mxPoint x="-569.39" y="848.5" />
+              <mxPoint x="-569.39" y="878.5" />
             </Array>
-            <mxPoint x="-506.4799999999999" y="878.5" as="targetPoint" />
+            <mxPoint x="-546.4799999999999" y="878.5" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-12" value="&lt;b&gt;Encrypts them by Known Key&lt;/b&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0661" y="-17" relative="1" as="geometry">
-            <mxPoint x="-513.7800000000001" y="445" as="sourcePoint" />
+            <mxPoint x="-553.7800000000001" y="445" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-533.7800000000001" y="445" />
-              <mxPoint x="-533.7800000000001" y="475" />
+              <mxPoint x="-573.7800000000001" y="445" />
+              <mxPoint x="-573.7800000000001" y="475" />
             </Array>
-            <mxPoint x="-508.7800000000001" y="475" as="targetPoint" />
+            <mxPoint x="-548.7800000000001" y="475" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-13" value="Session Manager" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=70;height=20;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="640" width="771.59" height="200" as="geometry" />
+          <mxGeometry x="-840" y="640" width="771.59" height="200" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-14" value="&quot;Bad Request&quot; or Error 404" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="a_sRbSnwJ97P-xuQ64Qr-13">
           <mxGeometry x="0.0348" y="10" width="50" height="50" relative="1" as="geometry">
@@ -1203,7 +1203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-20" value="PatientData&amp;nbsp;&lt;div&gt;Sync&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=70;height=20;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="840" width="772" height="200" as="geometry" />
+          <mxGeometry x="-840" y="840" width="772" height="200" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-21" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;(ENCRYPTED) PatientData&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;b&gt;(UNENCRYPTED)&amp;nbsp;&lt;/b&gt;Session ID&lt;/div&gt;&lt;div&gt;Encrypted by&amp;nbsp;&lt;b&gt;password(2)&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="a_sRbSnwJ97P-xuQ64Qr-20">
           <mxGeometry x="-0.1374" y="-9" relative="1" as="geometry">
@@ -1255,39 +1255,39 @@
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-27" value="Time-based QR Code&lt;div&gt;Generator&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0105" relative="1" as="geometry">
-            <mxPoint x="-263" y="257" as="sourcePoint" />
+            <mxPoint x="-303" y="257" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-233" y="287" />
+              <mxPoint x="-273" y="287" />
             </Array>
-            <mxPoint x="-258" y="287" as="targetPoint" />
+            <mxPoint x="-298" y="287" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-28" value="Package QR Code,&lt;div&gt;Establish BLE Connection&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.1823" y="-3" relative="1" as="geometry">
-            <mxPoint x="-502.78000000000003" y="300" as="sourcePoint" />
+            <mxPoint x="-542.78" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-531.14" y="300" />
-              <mxPoint x="-531.14" y="330" />
+              <mxPoint x="-571.14" y="300" />
+              <mxPoint x="-571.14" y="330" />
             </Array>
-            <mxPoint x="-507.78000000000003" y="330.0526315789475" as="targetPoint" />
+            <mxPoint x="-547.78" y="330.0526315789475" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-29" value="QR Code" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" target="a_sRbSnwJ97P-xuQ64Qr-42">
           <mxGeometry x="-0.0105" relative="1" as="geometry">
-            <mxPoint x="-261" y="295" as="sourcePoint" />
+            <mxPoint x="-301" y="295" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-261" y="325" />
-              <mxPoint x="-231" y="325" />
-              <mxPoint x="-231" y="485" />
+              <mxPoint x="-301" y="325" />
+              <mxPoint x="-271" y="325" />
+              <mxPoint x="-271" y="485" />
             </Array>
-            <mxPoint x="-256" y="325" as="targetPoint" />
+            <mxPoint x="-296" y="325" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-30" value="QR Number Checker" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=70;height=20;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="-799.59" y="340" width="771.59" height="300" as="geometry" />
+          <mxGeometry x="-839.59" y="340" width="771.59" height="300" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-31" value="&quot;Bad Request&quot; or Error 404" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;dashed=1;" edge="1" parent="a_sRbSnwJ97P-xuQ64Qr-30">
           <mxGeometry x="0.0348" y="10" width="50" height="50" relative="1" as="geometry">
@@ -1349,37 +1349,37 @@
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a_sRbSnwJ97P-xuQ64Qr-44" target="a_sRbSnwJ97P-xuQ64Qr-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-265" y="1540" as="sourcePoint" />
-            <mxPoint x="-265" y="253" as="targetPoint" />
+            <mxPoint x="-305" y="1540" as="sourcePoint" />
+            <mxPoint x="-305" y="253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-270" y="257" width="10" height="73" as="geometry" />
+          <mxGeometry x="-310" y="257" width="10" height="73" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-40" value="Scan QR Code Number" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry x="-0.0439" y="10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-504" y="293" as="sourcePoint" />
-            <mxPoint x="-270" y="293" as="targetPoint" />
+            <mxPoint x="-544" y="293" as="sourcePoint" />
+            <mxPoint x="-310" y="293" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-41" value="30secs" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="250" width="20" height="530" as="geometry" />
+          <mxGeometry x="-60" y="250" width="20" height="530" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-270" y="480" width="10" height="120" as="geometry" />
+          <mxGeometry x="-310" y="480" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-43" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="a_sRbSnwJ97P-xuQ64Qr-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-265" y="1160" as="sourcePoint" />
-            <mxPoint x="-265" y="370" as="targetPoint" />
+            <mxPoint x="-305" y="1160" as="sourcePoint" />
+            <mxPoint x="-305" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-270" y="646.5" width="10" height="123.5" as="geometry" />
+          <mxGeometry x="-310" y="646.5" width="10" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="a_sRbSnwJ97P-xuQ64Qr-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="-270" y="942" width="10" height="48" as="geometry" />
+          <mxGeometry x="-310" y="942" width="10" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
