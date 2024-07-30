@@ -859,23 +859,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ajchpExa8a9LxU2Gn37J-35" value="Use Formula-based&lt;div&gt;Pseudo-random&amp;nbsp;&lt;/div&gt;&lt;div&gt;Key Generator (3) = &lt;b&gt;password(3)&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0105" relative="1" as="geometry">
-            <mxPoint x="-260" y="942" as="sourcePoint" />
+        <mxCell id="ajchpExa8a9LxU2Gn37J-36" value="&lt;b&gt;Decrypt [w/ password(2) ]&lt;/b&gt;&amp;nbsp;=&amp;nbsp;&lt;div&gt;&lt;b&gt;Session ID,&amp;nbsp;&lt;/b&gt;&lt;b&gt;PtD encrypted&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="ajchpExa8a9LxU2Gn37J-30">
+          <mxGeometry x="0.0588" relative="1" as="geometry">
+            <mxPoint x="540" y="105" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-230" y="972" />
+              <mxPoint x="570" y="135" />
             </Array>
-            <mxPoint x="-255" y="972" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ajchpExa8a9LxU2Gn37J-36" value="&lt;b&gt;Decrypt [w/ SessionID Key ]&lt;/b&gt;&amp;nbsp;=&amp;nbsp;&lt;div&gt;&lt;b&gt;Session ID, password(3),&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;PtD encrypted&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.3882" relative="1" as="geometry">
-            <mxPoint x="-260" y="981" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-230" y="1011" />
-            </Array>
-            <mxPoint x="-255" y="1011" as="targetPoint" />
+            <mxPoint x="545" y="135" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
