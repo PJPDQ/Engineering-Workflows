@@ -924,8 +924,8 @@
         </mxCell>
         <mxCell id="ajchpExa8a9LxU2Gn37J-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.001;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;entryX=1.002;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ajchpExa8a9LxU2Gn37J-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2.3999999999999675" y="270.06999999999994" as="sourcePoint" />
-            <mxPoint x="771.5900000000003" y="269.9999999999998" as="targetPoint" />
+            <mxPoint x="-0.3999999999999675" y="269.06999999999994" as="sourcePoint" />
+            <mxPoint x="773.5900000000003" y="268.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ajchpExa8a9LxU2Gn37J-10" value="Formula-based&lt;div&gt;Pseudo-random&amp;nbsp;&lt;/div&gt;&lt;div&gt;Key Generator (1)&lt;/div&gt;" style="html=1;align=right;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="ajchpExa8a9LxU2Gn37J-65">
