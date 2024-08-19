@@ -1724,21 +1724,21 @@
         </mxCell>
         <mxCell id="8RVSQdftV31D_J8eXQJG-35" value="Use Formula-based&lt;div&gt;Pseudo-random&amp;nbsp;&lt;/div&gt;&lt;div&gt;Key Generator (2) = &lt;b&gt;password(2)&lt;/b&gt;&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="8RVSQdftV31D_J8eXQJG-30">
           <mxGeometry x="-0.0105" relative="1" as="geometry">
-            <mxPoint x="539.59" y="160" as="sourcePoint" />
+            <mxPoint x="539.59" y="141" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="569.59" y="190" />
+              <mxPoint x="569.59" y="171" />
             </Array>
-            <mxPoint x="544.59" y="190" as="targetPoint" />
+            <mxPoint x="544.59" y="171" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8RVSQdftV31D_J8eXQJG-36" value="&lt;b&gt;Decrypt [w/ Handshake]&lt;/b&gt;&amp;nbsp;=&amp;nbsp;&lt;div&gt;&lt;b&gt;Metadata, Handshake Info&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;and &lt;b&gt;password(1)&lt;/b&gt;.&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="8RVSQdftV31D_J8eXQJG-30">
           <mxGeometry x="0.1765" relative="1" as="geometry">
-            <mxPoint x="539.59" y="200" as="sourcePoint" />
+            <mxPoint x="539.59" y="181" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="569.59" y="230" />
+              <mxPoint x="569.59" y="211" />
             </Array>
-            <mxPoint x="544.59" y="230" as="targetPoint" />
+            <mxPoint x="544.59" y="211" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1746,6 +1746,16 @@
           <mxGeometry x="-0.0439" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="296.59000000000003" y="260" as="sourcePoint" />
             <mxPoint x="540.59" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8RVSQdftV31D_J8eXQJG-49" value="Verify the &lt;b&gt;last update timestamp&lt;/b&gt;&amp;nbsp;&lt;div&gt;and user credentials&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="8RVSQdftV31D_J8eXQJG-30">
+          <mxGeometry x="0.1765" relative="1" as="geometry">
+            <mxPoint x="539.59" y="222" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="569.59" y="252" />
+            </Array>
+            <mxPoint x="544.59" y="252" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
