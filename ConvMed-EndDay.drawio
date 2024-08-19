@@ -564,8 +564,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBVtE5sOdnZftQ-Y5Evq-12" value="ZKP Encryption&amp;nbsp;&lt;div&gt;(128-bit Recommended)&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.1485" y="-140" relative="1" as="geometry">
+        <mxCell id="NBVtE5sOdnZftQ-Y5Evq-12" value="ZKP Encryption&amp;nbsp;&lt;div&gt;(SHA512 Hexdigest)&lt;/div&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0518" y="-110" relative="1" as="geometry">
             <mxPoint x="259.76" y="1973" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="240" y="1973" />
