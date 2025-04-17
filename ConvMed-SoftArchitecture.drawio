@@ -28,10 +28,10 @@
         <mxCell id="5iGCBUCXHPfARLh19HUj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5iGCBUCXHPfARLh19HUj-7" target="5iGCBUCXHPfARLh19HUj-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5iGCBUCXHPfARLh19HUj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="5iGCBUCXHPfARLh19HUj-7" target="5iGCBUCXHPfARLh19HUj-1">
+        <mxCell id="5iGCBUCXHPfARLh19HUj-22" value="extends" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="5iGCBUCXHPfARLh19HUj-7" target="5iGCBUCXHPfARLh19HUj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5iGCBUCXHPfARLh19HUj-7" value="V01 Robot" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5iGCBUCXHPfARLh19HUj-7" value="Operational Code" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5iGCBUCXHPfARLh19HUj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iGCBUCXHPfARLh19HUj-8" target="5iGCBUCXHPfARLh19HUj-11">
@@ -55,11 +55,17 @@
             <mxPoint x="510" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5iGCBUCXHPfARLh19HUj-21" value="has" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5iGCBUCXHPfARLh19HUj-8">
+        <mxCell id="5iGCBUCXHPfARLh19HUj-21" value="has" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=diamondThin;startFill=0;" edge="1" parent="1" source="5iGCBUCXHPfARLh19HUj-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="160" as="sourcePoint" />
             <mxPoint x="410" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5iGCBUCXHPfARLh19HUj-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;*&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5iGCBUCXHPfARLh19HUj-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="116" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
