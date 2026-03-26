@@ -1,9 +1,232 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.5.4">
   <diagram name="Page-1" id="FGFcPdvpSyl63DJ7xITK">
-    <mxGraphModel>
+    <mxGraphModel dx="1501" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-3" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" value="Inputs" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-5" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-7" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-9" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-11" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Console UI Core" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-14" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RF9u3kN4PSYJTl319Eqk-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Vision System" vertex="1">
+          <mxGeometry height="60" width="120" x="60" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-15" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="RF9u3kN4PSYJTl319Eqk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Robot Movement" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-13" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RF9u3kN4PSYJTl319Eqk-12" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Virtual Twin" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-16" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RF9u3kN4PSYJTl319Eqk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-10" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="System Security&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-18" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-20" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-23" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RF9u3kN4PSYJTl319Eqk-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-12" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="System Model" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-26" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RF9u3kN4PSYJTl319Eqk-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Haptic Feedback" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-25" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="GUI Display" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-27" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="RF9u3kN4PSYJTl319Eqk-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-22" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Robot Command" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-29" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-31" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-24" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Async/ sync Communication" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-33" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-28" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Watchdog system" vertex="1">
+          <mxGeometry height="60" width="120" x="220" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-34" edge="1" parent="1" source="RF9u3kN4PSYJTl319Eqk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RF9u3kN4PSYJTl319Eqk-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-30" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Audit sync" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;verticalAlign=top;" value="Secure Post-operative Access" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Haptic Controllers/ Touch screen / voice / pedals&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="360" y="81" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;4K@60fps render / GUI State Manager / Audio/ Visual Cues&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="360" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;FPGA pipeline depth + object detection&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="60" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Kinematics Solver quaternion compute&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="220" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;3D sim environment haptic prediction&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="510" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;E2E secure data ZKP / AES-256&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="690" y="331" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Live Position Map / Collision Avoidance / Instrument State&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="362" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Resistance + Vibration predicted forces&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="150" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;4K Stereo video overlay + alerts&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="360" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;ECB Hub + CAN protocol arm motion + instrument actions&lt;/span&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="570" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Sensors socket bus / CAN Bus / Simulatanous multi-device channels&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="130" x="357" y="736" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Heartbeat monitor / anomaly detect / auto-safe mode&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="220" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Encrypted log storage / QMS / Inventory billing&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="520" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;ZKP login / device validation / auth handshake&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="120" x="360" y="966" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-53" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="160" as="sourcePoint" />
+            <mxPoint x="800" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="haptic joysticks, touchscreen, voice commands, and pedals all funnel into a single input bus. " vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="51" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The brain of GUI. Everything the user sees and hears originates from here." vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="181" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-57" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="42" y="260" as="sourcePoint" />
+            <mxPoint x="802" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-58" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="390" as="sourcePoint" />
+            <mxPoint x="800" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="they are running in parallel&lt;div&gt;- FPGA-accelerated vision system for depth maps, object detection&lt;/div&gt;&lt;div&gt;- kinematics solver for arm motion math&lt;/div&gt;&lt;div&gt;- virtual twin for haptic force prediction&lt;/div&gt;&lt;div&gt;- security for encryption layers handling sensitive patient data transfer&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-60" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="510" as="sourcePoint" />
+            <mxPoint x="800" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Live positions, collision avoidance calculation, dynamic environmental map merged into a single model every compute tick (&amp;lt;8ms)" vertex="1">
+          <mxGeometry height="59" width="320" x="840" y="431" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-62" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="650" as="sourcePoint" />
+            <mxPoint x="800" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="the result of the model will be diverges into output streams in a form of:&lt;div&gt;1. haptic feedback (resistance sent back to joystick)&lt;/div&gt;&lt;div&gt;2. the stereo GUI display (4k video + overlays + alerts)&lt;/div&gt;&lt;div&gt;3. robot command output to physical robot&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="570.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-65" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="42" y="780" as="sourcePoint" />
+            <mxPoint x="802" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-67" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="42" y="900" as="sourcePoint" />
+            <mxPoint x="802" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="This handles the real-time multi-device communication, including IoT sockets for sensors, WiFi PAN for audit and operational essential data, and CAN bus in parallel." vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Running at the base level where&amp;nbsp;&lt;div style=&quot;text-align: left;&quot;&gt;1. watchdog monitors heartbeats and triggers safe mode on anomalies&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. audit encrypts the logs and syncs to output device (e.g., P2P app or USB stick) for QMS, billing and post-market survaillence.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="RF9u3kN4PSYJTl319Eqk-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="The encrypted gatekeeper ensures the system security of data transfer through advanced ZKP encryption, encrypted session handshake before any session begins." vertex="1">
+          <mxGeometry height="59" width="320" x="850" y="930.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
